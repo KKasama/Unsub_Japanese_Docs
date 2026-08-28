@@ -1,0 +1,45 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/gogaido/jnarufirutno.md).
+
+# ジャーナルフィルターの追加
+
+はじめUnsubはダッシュボード1つに対し1つの出版社のコンテンツにのみ対応していました。例えばElsevier社のCOUNTERレポートをアップロードすると、ダッシュボードにはElsevier社のジャーナルしか表示されませんでしたが、現在はあらゆる出版社のジャーナルを1つのダッシュボードにまとめられるようになりました。
+
+現在のUnsubは、あらゆる出版社のタイトルに対応しており、ダッシュボードで出版社ごとにタイトルをフィルターする必要はなくなりました。 アップロードしたCOUNTERレポートには、[これらの理由](/unsub_guide_jpn/yokuaru/notaitorugasarenainohanazedesuka.md)に該当しない限りすべてのタイトルが表示されます。
+
+&#x20;出版社単位でのフィルタリングに替わるものとして、オプションでユーザーによるタイトル・フィルタリングを導入しました。
+
+### Filtering titles
+
+最初にパッケージに移動し、「Setup」タブをクリックし、「Filter」セクションまでスクロールします。
+
+<figure><img src="/files/EnSjVesa5rkkR92Viklq" alt=""><figcaption><p>フィルターセットアップが行われる前の状態</p></figcaption></figure>
+
+水色のアラートはデータがアップロードできることを示しています。
+
+KBARTファイルをアップロードする場合は、ホワイトリストに登録したいISSNのみにファイルを編集してください。
+
+カスタムファイルをアップロードします。ファイルはとてもシンプルで、下図のようにISSNカラムひとつのみのスプレッドシートです。
+
+<figure><img src="/files/15CLB6hUoEnRwEZZOSkp" alt=""><figcaption></figcaption></figure>
+
+クリップのアイコンをクリックし、該当のファイルを探して選択します。上向きの矢印をクリックするとアップロードが始まり、処理におよそ1～2分ほど要します。完了すると、下のような画面が表示されます。
+
+<figure><img src="/files/a7K50depoNOxp0cuomul" alt=""><figcaption></figcaption></figure>
+
+上の図を見ると、250行のデータがあることがわかります。画面右側にある下向きの矢印をクリックすると、フィルターしたジャーナルの一覧をダウンロードできます。
+
+データを後で差し替えたい場合は、画面右にあるゴミ箱のアイコンをクリックし、新しいファイルをアップロードしてください。&#x20;
+
+パッケージ内のシナリオに戻ると、以下のように右上に "Journal Whitelist (数字) "という青いメッセージが表示されます。
+
+<figure><img src="/files/2ScJVYqWvyZ4zuZ1EAAv" alt=""><figcaption><p>フィルター機能を利用したシナリオ</p></figcaption></figure>
+
+青い字でJournal Whitelistと書かれた箇所をクリックすると、このドキュメント・ページにアクセスできます。
+
+なお以下のような状況では、ダッシュボードに表示されるタイトルとフィルターの設定ステップでアップロードしたタイトルとが完全に一致しない場合がありますのでご注意ください。
+
+* シナリオのタイトル数が変わらないケース。（この場合、フィルタリングしたタイトルがダッシュボードに表示されているタイトルと完全に一致している可能性が考えられます）&#x20;
+* シナリオ内のタイトル数は減ったが、まだいくつかのタイトルが残っているケース。（最も一般的なケースです）
+* ダッシュボードにタイトルがない。これは、有効なISSNでフィルタリングしても、ダッシュボード上のどのタイトルとも一致しなかった場合に発生し得ます。
+
+上記どのケースでもない場合、またもしご質問がありましたら<support@unsub.org>までご連絡ください。

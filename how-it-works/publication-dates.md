@@ -1,0 +1,13 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/unsubnoshikumi/ptayapunakusesunoniunonodtahadokokarashiteirunodeshouka.md).
+
+# PTAやオープンアクセスの計算に使うの出版年のデータはどこから入手しているのでしょうか？
+
+COUNTER 5 TR\_J4ファイルとUnpaywallブラウザ拡張機能の使用データパターンの2つのソースから発行年のデータを取得しています。
+
+可能な限り、COUNTER 5 TR\_J4ファイルを使用して出版年のデータを取得しています。残念ながら、特定のジャーナルでの利用状況はまばらで、論文年代別の利用パターンを把握することはできません。
+
+必要に応じて、Unpaywallブラウザ拡張機能（25万人以上のアクティブユーザーを要しています）から匿名化したデータでCOUNTERデータを補完し、ジャーナル利用の年とOAステータス情報を取得することができます。
+
+Unsubのアプローチは[こちら](https://www.biorxiv.org/content/10.1101/795310v1)のプレプリントの論文で詳しく説明されていますが、簡単に言うとUnpaywallのブラウザ拡張機能をインストールした人々の利用状況から得た、ジャーナルレベルの出版年に関する集計された統計値を使用しています。Unsub上のAPI（OA論文と有料論文）の利用状況を集計すると、25万人の拡張機能のアクティブユーザーが各ジャーナルで読んでいる論文の年が分かります。そこから各ジャーナルの「ダウンロード減衰曲線」を導き出し、アクセスした時点で実際の利用のうち何パーセントがOAであるかを知ることができるのです。
+
+ジャーナルへの関心は各大学によって異なるかもしれませんが、我々はテストを行い、あるジャーナル内の古い論文と新しい論文の相対的な関心は変化しないことを突き止めました。また、COUNTER 5の出版年統計では扱えない、出版年をグリーンOAと相関させることもできます。

@@ -1,0 +1,15 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/yokuaru/noakauntonirierunihadoushitarayoideshouka.md).
+
+# 別大学のアカウントに切り替えるには、どうしたらよいでしょうか？
+
+複数の大学図書館でお勤めだったり、複数の機関でコンサルティング業務を行われている場合、またご所属の機関がコンソーシアのメンバーである場合など、Unsubのアカウントをふたつ以上お持ちであるケースでは、アカウントの切り替えを行う必要が生じます。
+
+画面右上のプロフィール画像アイコンをクリックすると表示されるユーザメニューから、Your accountをクリックします。
+
+![](https://unsub-a7e4b1f711ee.intercom-attachments-1.com/i/o/368948824/40b1ff929dbc38212e54a496/FXumz48.png)
+
+機関ダッシュボードのリストが表示されますので、行先の機関をクリックします。
+
+![](https://unsub-a7e4b1f711ee.intercom-attachments-1.com/i/o/368948834/3f8a1f0f5a47912d51a9f118/cQFGBMF.png)
+
+コンソーシアダッシュボードにアクセスする場合、"Consortia"のタブからのご利用をお願いします。

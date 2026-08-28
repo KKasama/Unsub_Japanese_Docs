@@ -1,0 +1,25 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/refarensu/li-yong-jinecost-per-use.md).
+
+# 利用金額(Cost Per Use)
+
+Unsubでは、ジャーナル購読の費用対効果をCost Per Use、いちどのジャーナルダウンロードにかかる金額をもとに評価しています。
+
+我々の間ではCPU(Cost Per Use)という呼称が定着していますが、専門用語ではNet Cost per Paid Use、またはNCPPUと呼びます。
+
+NCPPUは、従来型Cost Per Useの概念をベースに、我々にとって非常に重要な点を強化したたものです。ここでは、このフレーズを分解して、まず末尾から順にその違いを説明します。
+
+**Use**
+
+Use(利用)については、これまではダウンロードのみを数えるものと考えられてきました。Unsubでは、雑誌への引用や投稿など、ダウンロード以外の行為も「利用」として含まれるべきと考えます。NCPPUの概念には引用や投稿も利用の一部として考えられています。
+
+**Paid**
+
+無料論文の利用はコストとみなされるべきではありません。NCPPUでは、オープンアクセスやバックファイルのようなコストのかからないコンテンツの利用をすべて省いています。
+
+**Net Cost**
+
+NCPPUの解釈による「コスト」においては、購読しなかった場合にかかる金額は0ドルではありません。そのため購読する際のコスト以外の要素も考慮されています。例えばILLを通じて非購読ジャーナルへのアクセスが提供される際、これにはコストがかかります。UnsubではこのNCPPUの解釈を採用し、ジャーナルAを購読する場合にかかることが予測されるコストと、購読しなかった場合かかることが予測されるILLコストとの差額をリアルコストとして計上しています。
+
+NCPPUについてと、Unsubがいちどの利用にかかる費用をどのように計算しているかの説明は以上です。購読コストとILLの差額を、有料論文の利用回数で割った数値がその数値となります。
+
+購読料が比較的安くかつ多くの利用があるジャーナルでは、ILLの推定コストはジャーナルの購読料よりも高くなり、いちどの利用にかかる金額がマイナスとして計上されることもあります。

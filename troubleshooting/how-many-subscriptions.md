@@ -1,0 +1,9 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/yokuaru/woudorekurainowosurebayoinodeshouka.md).
+
+# 個別購読を行う場合、どれくらいの数を購読すればよいのでしょうか。
+
+この質問に正解はありません。Unsubが出来るのは、お客様が購読形態を決める判断材料としての情報を提供することです。
+
+お客様の図書館に金銭的な余裕があれば、購読を増やすことでより便利なアクセスをユーザに提供することも検討できます。
+
+財布の紐を締める必要があるのであれば、費用対効果を検討するのが最善と言えるでしょう。よりよいコレクションを作るには、より費用対効果の高いものから購読していく「妥協」も戦略のひとつです。

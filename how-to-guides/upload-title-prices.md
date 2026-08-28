@@ -1,0 +1,58 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/gogaido/taitorunoappurdo.md).
+
+# タイトル価格のアップロード
+
+各ジャーナルのタイトル別価格は、Unsubの主要なデータソースです。これはビッグディール以外でそのジャーナルを個別に購読する場合に支払うコストの情報です。各ジャーナルのタイトル別価格には、2つの情報源があります。
+
+1. **カスタムアップロード価格**: 各ジャーナルのカスタム価格を簡単なスプレッドシートにアップロードすることができます。入力された価格は、各パッケージで設定した通貨での価格として処理されます。
+2. **価格なし:** ジャーナルの単体価格をアップロードしていない場合、価格は不明です。全体の予測モデルに与える影響を考慮し、価格情報のないジャーナルは予測対象から除かれます。
+
+{% hint style="info" %}
+公示価格について: 現在Unsubでは各ジャーナルの単体価格を公開していませんので、[タイトル価格取得のページ](/unsub_guide_jpn/gogaido/taitorunowosuru.md)を参照してください。
+{% endhint %}
+
+各ジャーナルの価格データの出所は、お客様の機関Unsubページでパッケージをクリックし、Setupのタブから「Pricelist」のセクションをクリックすることで確認できます。
+
+ジャーナルのタイトル価格がアップロードされていない場合、以下の2つの画面のうちいずれかが表示されます。
+
+* **COUNTERレポートがアップロードされていない場合**: プライスリストのページ上のこのメッセージでは、価格のデータが必要であることだけが記載されています。
+*
+
+```
+<figure><img src="/files/nSqKzB5xF8g7nrv6wkwt" alt=""><figcaption></figcaption></figure>
+```
+
+* **COUNTERレポートがアップロードされている場合**: プライスリストデータが必要であることと、価格情報が不足しているタイトルの数が表示されます。
+*
+
+```
+<figure><img src="/files/JQReIz6GBBh9wvJut5k6" alt=""><figcaption></figcaption></figure>
+```
+
+View Missing Titles" をクリックすると、ISSN、タイトル、そのタイトルの COUNTER データのおおよその合計（"counter\_total" というカラム）を含むスプレッドシートがダウンロードされます。これによりUnsub ダッシュボードに価格が反映されていることの重要性をご理解いただけます。counter\_total" カラムは、COUNTER レポートのデータのみを含み、Unsub ダッシュボードで表示される引用や著者のデータは含まれません。ファイルは下図のようなものとなります。
+
+<figure><img src="/files/hrThtLrbcvwMR9KaHOZm" alt=""><figcaption><p>View Missing Titlesから得られるスプレッドシートの一例</p></figcaption></figure>
+
+価格データの準備ができたら、Unsubに必要なフォーマットは**ISSN**と**Price**のコラムふたつのみです。価格を設定するジャーナルごとに行を追加します。価格はパッケージ設定で設定した通貨での価格として処理されます。（シート上に入力された通貨は無視されます）.csv、.xlsx、.xlsの3つの形式に対応しており、シートは一枚のみである必要があります。ファイルには、数式やその他の値以外の内容を含めることはできず、またフォーミュラなど数式などの値でない内容を含んだファイルは非対応となります。下図より、ファイルの作成例をご確認ください。
+
+<figure><img src="/files/1L3P0rtZvOfCQdgEmhFM" alt=""><figcaption><p>価格リストのファイル作成例</p></figcaption></figure>
+
+{% hint style="danger" %}
+価格欄にはカンマやピリオドなどの区切り文字を使用しないでください。
+{% endhint %}
+
+まずアップロードボタンをクリックし、クリップのアイコンをクリックします。該当のファイルを選択して矢印をクリックすると1、2分後にアップロードの処理が完了します。アップロード後、下記のような画面が表示されます。
+
+<figure><img src="/files/ecSwxQqcptnyL91q8WUY" alt=""><figcaption><p>価格リストのセットアップ（COUNTERレポートと、一部の価格がアップロードされた状態）</p></figcaption></figure>
+
+アップロードした価格を確認したい場合は、ファイル列の右端にあるダウンロードボタンをクリックします。既にアップロードされているジャーナル価格表を差し替えたい場合は、ファイル行の右側にあるゴミ箱をクリックし、新しいファイルをアップロードしてください。
+
+赤のアラートがオレンジのアラートに変わるのは、必要なデータはアップロードされているが、価格の不足がまだあることを示しています。
+
+すべてのタイトル価格を取得することができた場合、以下の画面のように緑色のアラートとチェックマークが表示されます。
+
+![](/files/InaaAE02sKZuqqdEh6kk)
+
+{% hint style="info" %}
+Unsubはジャーナル単位の価格設定にのみ対応しています。ミニバンドル価格への対応については、[こちら](/unsub_guide_jpn/gogaido/minibandoruno.md)をご覧ください。
+{% endhint %}

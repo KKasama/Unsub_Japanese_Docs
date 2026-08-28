@@ -1,0 +1,31 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/unsubnoshikumi/oa-publishnohadonoyounisaremasuka.md).
+
+# OA Publishの利用料金はどのように計算されますか？
+
+注意：[APCレポート](/unsub_guide_jpn/gogaido/apcarticle-processing-costrepto.md)には、シナリオとは異なるジャーナルが含まれます。基本的なCOUNTERファイル内のジャーナルだけでなく、所属機関の著者がオープンアクセスで出版したすべてのジャーナルが含まれます。具体的には、購読ジャーナルだけでなくゴールドOAジャーナルも含まれます。
+
+[およそ15分の動画](https://vimeo.com/417000352)で計算方法を詳しく解説しています。
+
+以下に各項目の概要をご紹介します。
+
+**OA Type**
+
+このジャーナルに掲載されたOA論文が、Gold OAとHybrid OAのどちらで入手可能かを示しています。ゴールドは、ジャーナルが完全にOA化されている場合、ハイブリッドは、ジャーナル内の一部の論文が購読によってのみ利用可能な場合です。
+
+**APC Price**
+
+ジャーナルのAPC（Article Processing Charge）を示しています。APCとは、ジャーナルにオープンアクセスとして論文を掲載するために著者に請求される価格のことです
+
+**Number APC papers**
+
+当該のジャーナルでゴールドまたはハイブリッドOAとして出版された、所属機関の著者を含む論文の数（年間）を示しています。<br>
+
+**Total fractional authorship**
+
+通常、論文の責任著者（Corresponding Author）はその論文のAPCを支払う人です。Unsubは、現時点ではCorresponding Authorを特定するためのデータを所持していませんが、過去5年間に出版されたすべての論文について、年平均で所属機関の分担執筆者を算出しています。例えば、所属機関の誰かが自分一人の著者でOA論文を発表した場合、その分担執筆者は1.0となり、他のチームが3人の著者であなたの所属機関だけがOA論文を発表した場合、その分担執筆者は0.3となり、その年のそのジャーナルのOA論文の分担執筆者は合計で1.3、というふうに計算しています。
+
+**APC dollars spent**
+
+過去5年間、所属機関が毎年費やしたAPC費用の当社推定値です。分担執筆の合計に APC 価格を乗じて算出しています。
+
+大学の出版社APC支出総額は、すべてのジャーナル（この表のすべての行）で支出されたすべてのAPCのドルの合計です。

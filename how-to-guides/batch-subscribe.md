@@ -1,0 +1,37 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/gogaido/matomete.md).
+
+# まとめて購読/非購読設定
+
+{% hint style="info" %}
+ジャーナルタイトルの検索、選択については[こちらの記事](/unsub_guide_jpn/gogaido/jnaruno.md)をご覧ください。
+{% endhint %}
+
+タイトルごとの購読シミュレーションについては[チュートリアル](/unsub_guide_jpn/chtoriaru/taitoruno.md)で説明しましたが、これは費用対効果の高いタイトルを順に選んだひとつの購読モデルです。
+
+もちろん、費用対効果のみが購読タイトルを決める際の唯一の判断基準である必要はありません。別の基準で特定のジャーナルを購読する、例えば、教員アンケートで希望の多かったタイトルは購読したい、というケースという場合もあるでしょう。
+
+複数のタイトルを一括で購読/非購読設定するには、ダッシュボードの右上で操作します。
+
+選択されているジャーナルがない場合（下図参照）
+
+* 購読と購読解除のボタンが無効で、灰色表示になっています。
+* カーソルを合わせてもツールチップが表示されず、クリック出来ない状態です。
+
+  <figure><img src="/files/9qFxRVbl10Lru4nhdnUv" alt=""><figcaption></figcaption></figure>
+
+入力したテキストによってジャーナルが選択されている場合（下図参照）
+
+* ボックスの下にグレーの文字で選択されたジャーナルの数が表示されます。これは、購読できるものと非購読にできるものを合わせた、選択された総数です。
+* 購読・購読解除できるジャーナルがある場合は、購読・購読解除ボタンがそれぞれ青とグレーになります。
+
+<figure><img src="/files/KxRRFzRTJVB0lQ4WE4Zu" alt=""><figcaption></figcaption></figure>
+
+購読・購読解除のボタンにカーソルを合わせると、ツールチップが表示されます。
+
+<figure><img src="/files/EJaERDxHSO0L5C0tN6QX" alt=""><figcaption></figcaption></figure>
+
+お探しのタイトルを選択した後、購読または購読解除のアイコンをクリックします。アイコンをクリックするとタイトルが追加または削除されます。
+
+![](https://i.imgur.com/27zWND6.gif)
+
+検索ボックスの右端にある×アイコンをクリックすると、検索を解除することができます。

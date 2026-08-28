@@ -1,0 +1,87 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/refarensu/dtassunitsuite.md).
+
+# 外部データソースについて
+
+以下は、Unsubで利用している外部のデータソースについて、その利用目的およびデータの更新頻度などの詳細です。
+
+### 引用に関するデータ
+
+情報元: [OpenAlex](https://docs.openalex.org/)
+
+アップデート頻度: 四半期ごと
+
+利用目的: ジャーナル単位でのCost Per Useの計算、個別ジャーナル画面での引用情報の表示、機関ごとAPCレポートにおける引用情報の表示
+
+### 投稿に関するデータ
+
+情報元: OpenAlex&#x20;
+
+アップデート頻度: 四半期ごと
+
+利用目的: 個々のジャーナルのCost Per Useの計算、個別ジャーナル画面およびテーブル・ビューでの投稿数情報の表示、機関レベルのAPCレポートにおける投稿情報の表示
+
+### ジャーナルメタデータ
+
+これには、ジャーナルのタイトル、ISSN、出版社、オープンアクセスの状況、タイトルが現在出版されているかどうか（最後にDOIが発行された日付に基づく）が含まれます。
+
+情報元: OpenAlex&#x20;
+
+アップデート頻度: 毎日
+
+利用目的: 個々のジャーナルをダッシュボードに掲載させるかどうかの判断基準として（詳細については[こちらの記事](/unsub_guide_jpn/yokuaru/notaitorugasarenainohanazedesuka.md)をご確認ください）、またジャーナル関連の情報とユーザがアップロードしたデータを一致させるための証拠ソースとして。
+
+### エンバーゴ期間に関するデータ
+
+情報元:  手作業による収集。近日中に[oa.works](https://oa.works/)のデータ利用に切り替える予定です。
+
+アップデート頻度: 現在は更新していません
+
+利用目的: Cost Per Useの算出（個別ジャーナルの詳細画面上で表示されます）
+
+### 学会出版社に関する情報
+
+情報元: 手作業による収集
+
+アップデート頻度: 現在は更新していません
+
+利用目的: 個別ジャーナルの詳細画面上での情報表示
+
+### 論文数に関する情報
+
+情報元: OpenAlex&#x20;
+
+アップデート頻度: 毎日
+
+利用目的: 個別タイトル単位での利用数予測。
+
+### RORおよびグリッド識別子に関する情報
+
+情報元: Microsoft Academic Graph
+
+アップデート頻度: 現在は更新していません。近日中にOpenAlexに変更予定です。
+
+利用目的: データ（ジャーナル、著者など）と機関を結びつけるために使用
+
+### APCの価格に関する情報
+
+情報元:[ 出版社のウェブサイト](/unsub_guide_jpn/unsubnoshikumi/apcnohadokokarashiteirunoedeshouka.md)から取得
+
+アップデート頻度: Unsub側では更新しません。
+
+利用目的: Elsevier, Wiley, Springer Nature, Taylor & Francis, SAGEの機関別APCレポート
+
+### Unpaywallからの情報
+
+情報元: [Unpaywall](https://unpaywall.org/)
+
+アップデート頻度: 6時間ごと（4回/日）
+
+利用目的: 各ジャーナルタイトルの利用パターンの把握および引用・著者名データの作成
+
+### Unpaywallの拡張機能からの情報
+
+情報元: Unpaywall Browser Extensionのデータ。拡張機能をインストールした人の利用状況から、ジャーナルレベルの出版年の利用状況を集計した統計。
+
+アップデート頻度: 年1回（推定）。最終更新は2022年10月
+
+利用目的: 個々のジャーナルの利用パターン把握

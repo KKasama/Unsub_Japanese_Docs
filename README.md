@@ -1,0 +1,32 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/unsubmanyuaruheyoukoso.md).
+
+# 日本語版Unsubマニュアルへようこそ
+
+Unsubは、大きな契約を見直すためのダッシュボードで、解約の選択肢を理解するのに役立ちます。
+
+* チュートリアル：使い始めるための簡単なステップガイド
+* ご利用ガイド：特定の問題を解決するためのガイド
+* レファレンス：専門用語および独自の技術についてのガイド
+* Unsubのしくみ：製品がどのように動いているかについて説明している記事
+
+また、「よくある質問」には、Unsubのよくある質問に対する回答が掲載されています。
+
+**ドキュメントの検索**
+
+&#x20;Unsubのドキュメントを全文検索することができます。このページの右上にある検索をクリックして、検索したい項目を入力してください。&#x20;
+
+**記事へのリンク**&#x20;
+
+ブラウザでリンクをコピーすると、そのページへのリンクが表示されます。また、ヘッダーへの直接リンクも取得できます。興味のあるヘッダーに行き、ヘッダーの右端にマウスを合わせると、リンクアイコンが表示されます。そのリンクアイコンをクリックすると、URLはクリップボードにコピーされます。&#x20;
+
+**メーリングリスト設定**
+
+Unsubでは、自動送信メールマガジンの設定は行っておりません。お客様には、以下2つのgoogleグループに登録することをお勧めしています。&#x20;
+
+[Unsub Announce](https://groups.google.com/g/unsub-announce) 重要なデータやユーザーインターフェースのアップデートをお知らせします。&#x20;
+
+[Unsub Discuss](https://groups.google.com/forum/#!forum/unsub-discuss) 今後開催されるウェビナーの情報や過去の録画リンクが掲載されています。&#x20;
+
+**フィードバック**&#x20;
+
+Unsubに関するご質問やご意見、また本マニュアルについてなど、お気軽に弊社（<support@unsub.org>）までご連絡ください。フィードバックをお待ちしております。

@@ -1,0 +1,7 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/yokuaru/nopunakusesunohadonoyounisurunodeshouka.md).
+
+# 予測内のオープンアクセスの箇所は、どのように計算するのでしょうか。
+
+オープンアクセス箇所の計算に使うデータは、[OpenAlex](https://docs.openalex.org/)から取得しています。
+
+オープンアクセス部分の計算は、ジャーナルがオープンアクセスかどうかや、ジャーナル内の何本の論文がオープンアクセスであるかということだけを基に行われているわけではなく、閲覧履歴情報も加味されています。 実際に閲覧された論文のうち、どれくらいの割合をオープンアクセスが占めるのかもし100の論文が掲載されたジャーナルがあったとして、そのうちの1つの論文しか読まれなければ、子のジャーナルは本質的に有料のジャーナルということになるでしょう。

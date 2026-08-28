@@ -1,0 +1,24 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/unsubnoshikumi/illrikuesutotoillkosutohadonoyounisurunodesuka.md).
+
+# ILLリクエストとILLコストはどのように計算するのですか？
+
+ILL（図書館相互貸借）は、パッケージの解約によるコストへの影響を予測する上で重要な考慮すべき事項です。そのため、当然Unsubの5年予測アプローチの重要な部分であり、シナリオのページでも目立つように表示されています。ILLをどのように扱うか理解するには、リクエスト数とコストというふたつの要素を紐解いていく必要があります。
+
+## ILLリクエスト数の予測 <a href="#forecasting-ill-requests" id="forecasting-ill-requests"></a>
+
+それでは、1つの雑誌（ここではJournal Xとします）のILLリクエストをどのように予測するかについて見てみましょう。
+
+1. 最初に、アップロードされたCOUNTERレポートからJournal Xの昨年の閲覧数を算出します。
+2. 今後5年間のJournal Xの利用状況を予測します。最近の出版と読者の傾向に基づいて、このジャーナルへの関心の高まり（または低下）を予測するアルゴリズムを使用します。
+3. 今後5年間の各年に、ジャーナルXの閲覧が、PTA（Post-Termination Access）権やオープンアクセスによってどの程度充足できるかのデータ内訳が作成されます。（Journal Xをタイトル単位で購読した場合は当然除きます）。
+4. すべてのTurnawayがILLリクエストを生み出すと単純に考えることもできますが、Unsubでは利用者が他の手段で同じ記事を入手しようとしたり、もしくは全く別の代わりの記事を見つけようとすることも理解しています。[こちらの文献](https://arxiv.org/abs/2009.04287)によると、控えめに見て貸し出しのうち約5％がILLリクエストに行き着くようです。 この5%という数字が、お客様のILLリクエスト率としてデフォルトで設定されています。UnsubではシンプルにTurnaway数×ILLリクエスト率で、Journal Xで毎年予想されるILLリクエスト数を予測します。なおデフォルトで設定されているILLリクエスト率の数値は、Scenarioメニューの "Parameter ➞ ILL ➞ ILLリクエスト率 "から変更することができます。
+
+説明は以上です。これらのステップで、今後5年間のILLリクエストの数を予測することができます。シナリオ内のすべてのジャーナルに同じ処理を行うことで、パッケージ全体のILLリクエストを推定することができます。通常では、レポートを簡素化するために（年ごとではなく）5年間の平均値として結果を表示します。
+
+## ILLコストの予測 <a href="#forecasting-ill-cost" id="forecasting-ill-cost"></a>
+
+ILLリクエストの数がわかれば、ILLにかかるコストを見積もるのはとても簡単です。リクエストあたりのコストを推定し、それを乗数として使用すればよいのです。もちろん、この見積もりは、変動費（例：取引手数料）とスタッフ給与のような継続的な固定費の両方を平均化した、リクエストあたりの全体的なコストでなければなりません。
+
+ILLのリクエストあたりの総コストを推定する文献は多数あり、[こちら](https://arxiv.org/abs/2009.04281)にまとめられています。一度のリクエストあたり17ドルという数字が最も多く引用されており、Unsubはこの値をデフォルトで使用しています。もちろん、お客様の図書館のリクエスト単価が異なる場合は、Scenarioメニュー（"Parameter ➞ ILL ➞ ILLトランザクションコスト"）から、デフォルトの17ドルの数値を変更することができます。
+
+ILLリクエスト1件あたりの平均コストがわかったので、その数値に今後5年間のILLリクエスト予測件数をかければ、今後5年間のILLコスト予測が得られます。ここでも簡略化のため、通常今後5年間の年間平均コストを表示します。

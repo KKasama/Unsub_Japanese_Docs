@@ -1,0 +1,11 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/refarensu/ror-noid.md).
+
+# ROR- 研究機関の個別ID
+
+ROR(Research Organization Registry)は、ISSNやDOIのような、研究機関のための独立した個別IDです。
+
+こちらのウェブサイトでは、RORは世界中のすべての研究機関について、オープンで持続可能、かつ使用可能でユニークな識別子を開発するコミュニティ主導のプロジェクトである、と定義されています。
+
+Unsubはお客様機関のRORをいくつかの目的で利用しますが、なかでも最も重要なのはお客様機関の教員の著作や引用の追跡精度を向上させることです。
+
+Unsubでアカウント登録すると、お客様機関のRORが読み込まれます。RORについて、お客様サイドでは特に行うことは何もありませんのでご安心ください。将来的な構想ですが、お客様が複数のRORを持っている場合、RORをアップロードできるようにすることを計画しています。（メインとは別に医学部用の RORがある場合など）

@@ -1,0 +1,16 @@
+> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/yokuaru/konsshianihashiteimasuka.md).
+
+# コンソーシアには対応していますか？
+
+JISC ([Joint Information Systems Committee](https://www.jisc.ac.uk/)) やCRKN ([Canadian Research Knowledge Network](https://www.crkn-rcdr.ca/))をはじめとし、Unsubをご利用いただいているコンソーシアは多数存在します。また公式なコンソーシアではありませんが、機関グループとしてのご利用もいただいています。（一国のほとんどの大学が参加しているような規模のグループもおられます）
+
+&#x20;機関のグループが関わる際の利用に対応するため、シナリオのセットアップにいくつか通常と異なる箇所があります。
+
+* コンソーシアダッシュボードがある場合：コンソーシアダッシュボードに加えて、各メンバー機関に独立したダッシュボードの提供
+* コンソーシアダッシュボードがない場合：各メンバー機関に独立したダッシュボードのみの準備
+
+以下は、コンソーシアに関するメモとなります。
+
+* コンソーシアは通常、購読エージェントです。
+* コンソーシアメンバーである各機関にも独立したダッシュボードが準備されています。
+* コンソーシアのすべての機関がUnsubを購読する必要はありません。 例として、20のメンバーで構成されている図書館コンソーシアのうち、10の機関だけでもUnsubを購読することができます。
