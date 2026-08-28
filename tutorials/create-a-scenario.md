@@ -1,9 +1,8 @@
 
 # シナリオの作成
 
-{% hint style="warning" %}
-パッケージの作成がまだお済みでない場合は、[こちら](/unsub_guide_jpn/chtoriaru/pakkjino.md)から作成をお願いいたします。
-{% endhint %}
+> **⚠️ 注意：**
+> パッケージの作成がまだお済みでない場合は、[こちら](/unsub_guide_jpn/chtoriaru/pakkjino.md)から作成をお願いいたします。
 
 このチュートリアルでは、Unsubで[シナリオ](/unsub_guide_jpn/refarensu/shinario.md)を作成する一連の手順と、それを使って作業行う方法を説明します。
 
@@ -29,6 +28,6 @@ From here, click on "**+ New scenario"**.ここから、"+新規シナリオ "�
 
 Unsubシナリオの詳細については、[こちら](/unsub_guide_jpn/refarensu/shinario.md)をご覧ください。
 
-## **What's Next?**
+---
 
-*シ*ナリオを作成したら、次はタイトルの購読です。
+**次のステップ：** シナリオを作成したら、次は[タイトルの購読](tutorials/subscribing-titles.md)です。

@@ -1,9 +1,8 @@
 
 # タイトルの購読
 
-{% hint style="warning" %}
-シナリオの作成は、[こちら](/unsub_guide_jpn/chtoriaru/shinariono.md)から作成をお願いいたします。
-{% endhint %}
+> **⚠️ 注意：**
+> シナリオの作成は、[こちら](/unsub_guide_jpn/chtoriaru/shinariono.md)から作成をお願いいたします。
 
 Unsubでは独自のCPU(Cost Per Use)を活用することによって、タイトル毎の購読を手助けします。祖場合、次のようなケースが考えられます。
 
@@ -17,6 +16,6 @@ Unsubでは独自のCPU(Cost Per Use)を活用することによって、タイ�
 
 ＋の箇所クリックすると1つのジャーナルが購読され、いちばん左下の四角が灰色から青色に変わるのが分かります。そのまま＋ボタンを押し続けると費用対効果の高い順にタイトルが購読され、-ボタンを押すとタイトルが非購読されます。
 
-## What's Next? <a href="#whats-next" id="whats-next"></a>
+---
 
-タイトルごとに購読する設定の次は、シナリオのパラメータを設定する方法を紹介します。​
+**次のステップ：** タイトルごとの購読設定の次は、[パラメーター設定](tutorials/setting-parameters.md)を行います。

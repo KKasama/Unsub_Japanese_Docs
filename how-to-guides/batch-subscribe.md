@@ -1,9 +1,8 @@
 
 # まとめて購読/非購読設定
 
-{% hint style="info" %}
-ジャーナルタイトルの検索、選択については[こちらの記事](/unsub_guide_jpn/gogaido/jnaruno.md)をご覧ください。
-{% endhint %}
+> **ℹ️ 情報：**
+> ジャーナルタイトルの検索、選択については[こちらの記事](/unsub_guide_jpn/gogaido/jnaruno.md)をご覧ください。
 
 タイトルごとの購読シミュレーションについては[チュートリアル](/unsub_guide_jpn/chtoriaru/taitoruno.md)で説明しましたが、これは費用対効果の高いタイトルを順に選んだひとつの購読モデルです。
 

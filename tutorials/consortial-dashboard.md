@@ -1,11 +1,10 @@
 
 # コンソーシアダッシュボード
 
-{% hint style="info" %}
-Most Unsub users do not have a consortial dashboard - nothing is amiss if you don't see the consortial dashboard in your Unsub account (unless you've asked for one and don't see it yet). If you are a consortium and would like to have a consortial dashboard get in touch at <support@unsub.org>
-
-Unsubアカウントにコンソーシアムダッシュボードが表示されなくても、何も問題はありません（リクエストしたのに表示されない場合を除く）。コンソーシアムでコンソーシアムダッシュボードを希望する場合は、 <support@unsub.org> までご連絡ください。
-{% endhint %}
+> **ℹ️ 情報：**
+> Most Unsub users do not have a consortial dashboard - nothing is amiss if you don't see the consortial dashboard in your Unsub account (unless you've asked for one and don't see it yet). If you are a consortium and would like to have a consortial dashboard get in touch at <support@unsub.org>
+>
+> Unsubアカウントにコンソーシアムダッシュボードが表示されなくても、何も問題はありません（リクエストしたのに表示されない場合を除く）。コンソーシアムでコンソーシアムダッシュボードを希望する場合は、 <support@unsub.org> までご連絡ください。
 
 ## 1 Find your consortium dashboard
 
@@ -40,9 +39,8 @@ From the listing of packages for your consortium click on any one of the package
 
 コンソーシアムのパッケージ一覧から、任意のパッケージをクリックすると、パッケージの中身を見ることができます。
 
-{% hint style="info" %}
-Unsub users can not currently create their new packages. Get in touch with us to create new packages: <support@unsub.org>アンサブユーザーは現在、新しいパッケージを作成することができません。新しいパッケージを作成するには、私たちと連絡を取ってください: <support@unsub.org>
-{% endhint %}
+> **ℹ️ 情報：**
+> Unsub users can not currently create their new packages. Get in touch with us to create new packages: <support@unsub.org>アンサブユーザーは現在、新しいパッケージを作成することができません。新しいパッケージを作成するには、私たちと連絡を取ってください: <support@unsub.org>
 
 ![](/files/FFOmBGYBvRS8dIhPIfSp)
 

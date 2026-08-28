@@ -1,9 +1,8 @@
 
 # パラメーター設定
 
-{% hint style="warning" %}
-シナリオの作成がまだお済でない場合は、[こちら](/unsub_guide_jpn/chtoriaru/shinariono.md)から作成をお願いいたします。
-{% endhint %}
+> **⚠️ 注意：**
+> シナリオの作成がまだお済でない場合は、[こちら](/unsub_guide_jpn/chtoriaru/shinariono.md)から作成をお願いいたします。
 
 Parameterのタブをクリックすると、9つのパラメータとその詳細についてのページが表示されます。
 
@@ -37,11 +36,11 @@ Parametersタブを見ると、Include Bronze OAはこのように表示され�
 
 このパラメータの変更によりシナリオに変化があったかどうかを確認するために、Bronze OAパラメータ変更前と変更後のシナリオのスクリーンショットを比較してみましょう。全体的に変化していますが、シナリオの左側にあるコストバーとアクセスバーに注目します。&#x20;
 
-**Include Bronze OA = true**&#x20;
+**ブロンズOAを含める = はい（Include Bronze OA = true）**&#x20;
 
 <figure><img src="/files/1LSsvIDXwsLPeGYmr0dt" alt=""><figcaption></figcaption></figure>
 
-**Include Bronze OA = false**
+**ブロンズOAを含めない = いいえ（Include Bronze OA = false）**
 
 <figure><img src="/files/01oaR7ZuMLR3z7nnfg1z" alt=""><figcaption></figcaption></figure>
 
@@ -49,6 +48,6 @@ Parametersタブを見ると、Include Bronze OAはこのように表示され�
 
 各シナリオパラメータの説明については、[シナリオパラメータ](/unsub_guide_jpn/refarensu/shinario/shinarionoparamta.md)の記事をご覧ください。
 
-## **What's Next?**
+---
 
-パラメータを設定した次は「シナリオの比較」を行います。
+**次のステップ：** パラメータを設定したら、次は[シナリオ同士の比較](tutorials/comparing-scenarios.md)を行います。

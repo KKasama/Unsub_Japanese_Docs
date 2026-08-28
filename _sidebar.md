@@ -1,5 +1,3 @@
-# 目次
-
 * [日本語版Unsubマニュアルへようこそ](README.md)
 * [チュートリアル](tutorials/README.md)
   * [ログイン](tutorials/logging-in.md)

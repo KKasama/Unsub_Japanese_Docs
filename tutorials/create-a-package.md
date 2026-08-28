@@ -1,8 +1,7 @@
 # パッケージの作成
 
-{% hint style="warning" %}
-ログインはお済みでしょうか？まだの場合は、[こちら](/unsub_guide_jpn/chtoriaru/roguin.md)を参照にログインしてください。
-{% endhint %}
+> **⚠️ 注意：**
+> ログインはお済みでしょうか？まだの場合は、[こちら](/unsub_guide_jpn/chtoriaru/roguin.md)を参照にログインしてください。
 
 このページでは、Unsub上でパッケージを作成する方法を説明します。
 
@@ -77,9 +76,8 @@ PTAの項目とオプションデータ（Filter）の下に灰色の選択で�
 
 COUNTER準拠利用統計のアップロードの詳細については、[こちら](#21-counterno)をご参照ください。
 
-{% hint style="info" %}
-他のタブ(Pricelist, Currency, Big Deal Costs)の項目も、COUNTERデータがアップロードされている間に入力することができます。
-{% endhint %}
+> **ℹ️ 情報：**
+> 他のタブ(Pricelist, Currency, Big Deal Costs)の項目も、COUNTERデータがアップロードされている間に入力することができます。
 
 ### 2.2 タイトル価格
 
@@ -145,6 +143,6 @@ PTAファイルの準備が出来たら、デバイス上でそのファイル�
 
 ジャーナルのフィルタリングについての詳細は、[こちらの記事](/unsub_guide_jpn/gogaido/jnarufirutno.md)をご覧ください。
 
-## What's Next?
+---
 
-パッケージを作成したら、次のステップでは[シナリオを作成](/unsub_guide_jpn/chtoriaru/shinariono.md)します。
+**次のステップ：** パッケージを作成したら、次は[シナリオの作成](tutorials/create-a-scenario.md)です。

@@ -1,9 +1,8 @@
 
 # シナリオ同士の比較
 
-{% hint style="warning" %}
-シナリオの作成がお済みでない場合は、[こちらのページ](/unsub_guide_jpn/chtoriaru/pakkjino.md)を参考に作成をお願いいたします。。
-{% endhint %}
+> **⚠️ 注意：**
+> シナリオの作成がお済みでない場合は、[こちらのページ](/unsub_guide_jpn/chtoriaru/pakkjino.md)を参考に作成をお願いいたします。。
 
 Unsubでは、パッケージ内に作れるシナリオの数は無制限です。
 
@@ -37,10 +36,9 @@ Cost is about $24,000 less and access 3% higher in "First Scenario" relative to 
 
 シナリオをさらに追加すれば、すべてのシナリオでコストとアクセスを比較することができます。
 
-## **What's Next?**
+---
 
-次は、「コンソーシアダッシュボード」について学びます。
+**次のステップ：** 次は、[コンソーシアダッシュボード](tutorials/consortial-dashboard.md)について学びます。
 
-{% hint style="warning" %}
-注意：ほとんどのお客様はコンソーシアダッシュボードはありません。
-{% endhint %}
+> **⚠️ 注意：**
+> 注意：ほとんどのお客様はコンソーシアダッシュボードはありません。
