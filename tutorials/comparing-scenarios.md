@@ -21,7 +21,7 @@ Unsubでは、パッケージ内に作れるシナリオの数は無制限です
 
 コピーしたシナリオのパラメータ(Parameters)タブをクリックすると、9つのパラメータが表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252Fgxgpgp1XW35JbOfKfdQB%252Fparameters-tab.png%3Falt%3Dmedia%26token%3D6a1d6310-5ec9-4491-bdfd-0d615b8abd1b&width=768&dpr=3&quality=100&sign=e0ec24e93d5797d0199559ab4fbd7a84&sv=3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/parameters-no-details-ja.png" alt=""><figcaption><p>パラメータタブ</p></figcaption></figure>
 
 ここでは、フルフィルメントソースのパラメータの1つ **Include Bronze OA**を変更します。
 
@@ -31,7 +31,7 @@ Unsubでは、パッケージ内に作れるシナリオの数は無制限です
 
 次に、2つのシナリオ（作成したオリジナルのシナリオとコピーしたシナリオ）があるパッケージページに移動すると、以下のような画面が表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FgKoHsZfbyHUjcVuvQKzg%252Ftwo-scenarios.png%3Falt%3Dmedia%26token%3D1c6d1531-ecfd-4ac7-9ec7-9cdc8a850a30&width=768&dpr=3&quality=100&sign=2fe81255a60b7a0b842eef75a755c785&sv=3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/scenario-list-ja.png" alt=""><figcaption><p>シナリオ一覧</p></figcaption></figure>
 
 上の画面では、ふたつ以上のシナリオの間で異なるコストとアクセスの数値を簡単に確認することができます。この例では、Include Bronze OAのパラメータ（"First Scenario "ではtrue、"Copy of First Scenario "ではfalse）の箇所以外、2つのシナリオは同じものです。&#x20;
 

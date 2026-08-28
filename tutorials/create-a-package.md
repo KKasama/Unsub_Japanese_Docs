@@ -14,15 +14,15 @@
 
 &#x20;ご所属の教育機関をクリックします。下の画像は「Demo University」の場合です。複数の教育機関が表示される場合は、パッケージを作成したい教育機関を選んでください。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FMOsTZUHGbWu0EAu2ZTir%252Ftutorial-create-package-institution.png%3Falt%3Dmedia%26token%3Daffe66c5-4ca1-4d97-80fb-2f8d247a4e25&width=768&dpr=3&quality=100&sign=9daf3235926e31a9e21f23b21e051586&sv=3" alt=""><figcaption><p>ご所属の教育機関をクリックしてください。</p></figcaption></figure>
+<figure><img src="../images/account-page-ja.png" alt=""><figcaption><p>ご所属の教育機関をクリックしてください。</p></figcaption></figure>
 
 まだパッケージが作成されていない場合は、下のボタンが表示されます。最初のパッケージを作成するには、「+ **New package**」をクリックします。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FxYVVahlzr0ZOpq2OrOQC%252Fnew-package.png%3Falt%3Dmedia%26token%3D2570680b-bb66-4247-88e3-b21118dbed54&width=768&dpr=3&quality=100&sign=264a442a7154280f98836edc88406d53&sv=3" alt=""><figcaption><p>「+New package」をクリックします。</p></figcaption></figure>
+<figure><img src="../images/institution-packages-ja.png" alt=""><figcaption><p>「+ 新規パッケージ」をクリックします。</p></figcaption></figure>
 
 **Add subscription package**というタイトルのポップアップウィンドウが表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FIjUKXaNXPhiHItO3tdEB%252Ftutorial-create-package-add-subscription-package.png%3Falt%3Dmedia%26token%3De639c83a-e555-41bc-adf6-371a87ab9cc3&width=768&dpr=3&quality=100&sign=7a7fc5d37f8cabe883991d091a52e3d2&sv=3" alt=""><figcaption><p>購読パッケージの追加を行います。</p></figcaption></figure>
+<figure><img src="../images/add-package-popup-ja.png" alt=""><figcaption><p>購読パッケージの追加を行います。</p></figcaption></figure>
 
 パッケージの表示名（必須）を入力します。パッケージの作成には、パッケージ名が必要です。
 
@@ -30,7 +30,7 @@
 
 その後OKをクリックすると、パッケージが作成されます。パッケージのページでは作成されたすべてのパッケージがリストアップされます。パッケージはいくつでも作成でき、1つのパッケージは1つのパブリッシャーを扱います。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FDq3UQRPZ5wiV7oRYII6B%252Ftutorial-create-package-new-package-added.png%3Falt%3Dmedia%26token%3D50a6e258-769f-4b2a-a724-06f659761bdc&width=768&dpr=3&quality=100&sign=dae3ced9d91cdcd5b1295a1b382c788c&sv=3" alt=""><figcaption><p>作成したパッケージはこのように表示されます。</p></figcaption></figure>
+<figure><img src="../images/institution-packages-ja.png" alt=""><figcaption><p>作成したパッケージはこのように表示されます。</p></figcaption></figure>
 
 ## 2 パッケージのセットアップ
 
@@ -53,7 +53,81 @@
 
 以下は、セットアップを図式化したガイドです。シナリオの詳細についてはこの後のチュートリアルで説明しますが、セットアップの全体像については、このガイドをご覧ください。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FeRvwslgbbWzB0R74P32b%252FUnsub-Setup-Graphical.jpeg%3Falt%3Dmedia%26token%3Dbca54139-fbbd-411f-98aa-6fa6d1c84936&width=768&dpr=3&quality=100&sign=186e87ef706233dcc6d87b9239465ed0&sv=3" alt=""><figcaption><p>Unsubセットアップの図ガイド</p></figcaption></figure>
+<figure>
+<svg viewBox="0 0 720 520" xmlns="http://www.w3.org/2000/svg" style="max-width:720px;width:100%;font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Noto Sans JP',sans-serif;">
+  <!-- 背景 -->
+  <rect width="720" height="520" fill="#f8f9fa" rx="8"/>
+  <!-- 必須項目 (パッケージレベル) -->
+  <rect x="20" y="15" width="680" height="130" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <text x="35" y="40" font-size="14" font-weight="bold" fill="#333">必須項目</text>
+  <!-- COUNTER -->
+  <rect x="35" y="50" width="230" height="80" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="150" y="75" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">COUNTERファイルのアップロード</text>
+  <text x="150" y="93" font-size="10" fill="#555" text-anchor="middle">COUNTER 4: JR1</text>
+  <text x="150" y="106" font-size="10" fill="#555" text-anchor="middle">- または -</text>
+  <text x="150" y="119" font-size="10" fill="#555" text-anchor="middle">COUNTER 5: TR_J2, TR_J3, TR_J4</text>
+  <!-- 通貨 -->
+  <rect x="280" y="50" width="130" height="35" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="345" y="73" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">通貨の設定</text>
+  <!-- タイトル価格 -->
+  <rect x="280" y="95" width="130" height="35" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="345" y="118" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトル価格</text>
+  <!-- ビッグディール -->
+  <rect x="425" y="50" width="260" height="45" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="555" y="70" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">ビッグディールのコストと</text>
+  <text x="555" y="86" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">年間値上げ率の設定</text>
+  <!-- 推奨・オプション -->
+  <rect x="20" y="160" width="340" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <text x="35" y="182" font-size="14" font-weight="bold" fill="#333">推奨事項</text>
+  <rect x="35" y="192" width="310" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="190" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">購読終了後アクセス権(PTA)データ</text>
+  <rect x="380" y="160" width="320" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <text x="395" y="182" font-size="14" font-weight="bold" fill="#333">オプション</text>
+  <rect x="395" y="192" width="290" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="540" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトルホワイトリスト</text>
+  <!-- シナリオパラメータ (シナリオレベル - 破線) -->
+  <rect x="20" y="250" width="680" height="140" fill="none" stroke="#333" stroke-width="2" stroke-dasharray="8,4" rx="6"/>
+  <text x="35" y="275" font-size="14" font-weight="bold" fill="#333">シナリオパラメータ（設定可能）</text>
+  <!-- コスト -->
+  <rect x="35" y="285" width="210" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="140" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">コスト</text>
+  <text x="140" y="320" font-size="10" fill="#555" text-anchor="middle">・タイトル別購読コスト増加率</text>
+  <text x="140" y="333" font-size="10" fill="#555" text-anchor="middle">・タイトル別コンテンツ料金</text>
+  <!-- フルフィルメント -->
+  <rect x="35" y="348" width="210" height="35" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="140" y="363" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">フルフィルメント</text>
+  <text x="140" y="377" font-size="9" fill="#555" text-anchor="middle">ブロンズOA? グリーンOA? ResearchGate?</text>
+  <!-- ILL -->
+  <rect x="260" y="285" width="210" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="365" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">相互貸借 (ILL)</text>
+  <text x="365" y="320" font-size="10" fill="#555" text-anchor="middle">・ILL取引コスト</text>
+  <text x="365" y="333" font-size="10" fill="#555" text-anchor="middle">・ILLリクエスト率</text>
+  <!-- 引用/著者 -->
+  <rect x="485" y="285" width="200" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="585" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">引用 / 著者</text>
+  <text x="585" y="320" font-size="10" fill="#555" text-anchor="middle">・機関の引用ウェイト</text>
+  <text x="585" y="333" font-size="10" fill="#555" text-anchor="middle">・機関の著者ウェイト</text>
+  <!-- セットアップ完了 -->
+  <text x="35" y="420" font-size="16" font-weight="bold" fill="#333">セットアップ完了！</text>
+  <rect x="35" y="430" width="120" height="60" fill="#e8f5e9" stroke="#a8d5a2" stroke-width="1" rx="3"/>
+  <rect x="42" y="460" width="12" height="25" fill="#a8d5a2"/>
+  <rect x="58" y="450" width="12" height="35" fill="#a8d5a2"/>
+  <rect x="74" y="455" width="12" height="30" fill="#90caf9"/>
+  <rect x="90" y="440" width="12" height="45" fill="#a8d5a2"/>
+  <rect x="106" y="445" width="12" height="40" fill="#90caf9"/>
+  <rect x="122" y="435" width="12" height="50" fill="#a8d5a2"/>
+  <!-- 凡例 -->
+  <line x1="450" y1="430" x2="500" y2="430" stroke="#333" stroke-width="2"/>
+  <text x="510" y="434" font-size="11" fill="#333">パッケージレベル</text>
+  <line x1="450" y1="450" x2="500" y2="450" stroke="#333" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="510" y="454" font-size="11" fill="#333">シナリオレベル</text>
+  <rect x="450" y="465" width="50" height="14" fill="#a8d5a2" stroke="#6aab64" stroke-width="1" rx="2"/>
+  <text x="510" y="477" font-size="11" fill="#333">ファイル</text>
+  <rect x="450" y="485" width="50" height="14" fill="#90caf9" stroke="#5b9bd5" stroke-width="1" rx="2"/>
+  <text x="510" y="497" font-size="11" fill="#333">設定</text>
+</svg>
+<figcaption><p>Unsubセットアップの図ガイド</p></figcaption>
+</figure>
 
 必須項目のファイルと情報がアップロードおよび入力されていることを確認してください。推奨セクションにあるものについてはあるに越したことはないですが、もしこの後で用意できるのであれば、その際にこのページで確認してください。
 
@@ -73,7 +147,7 @@ PTAの項目とオプションデータ（Filter）の下に灰色の選択で�
 
 次に、ファイルをアップロードします。該当のCOUNTERファイルをクリップのボタンから選択し、それぞれのファイル名が記載された箇所の右側にある上向きの矢印ボタンを押すとファイルのアップロードが開始されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FtkIVelHMCfUHdSDm4Ay9%252Ftutorial-create-package-setup-counter.png%3Falt%3Dmedia%26token%3D74fe7e60-ae3e-4cf5-8518-0ae84ae26c56&width=768&dpr=3&quality=100&sign=25b2c1ab1bf888e2c2c73c264f629db5&sv=3" alt=""><figcaption><p>COUNTERのセットアップページ</p></figcaption></figure>
+<figure><img src="../images/setup-counter-ja.png" alt=""><figcaption><p>COUNTERのセットアップページ</p></figcaption></figure>
 
 アップロードしたファイルに問題がある場合、Unsubが通知でお知らせします。
 
@@ -86,7 +160,7 @@ COUNTER準拠利用統計のアップロードの詳細については、[こち
 
 次に、左側の「Pricelist」をクリックすると下図のような画面になります。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252F3jcOCN4PVGocJs7QCBCH%252Ftutorial-create-package-setup-pricelist.png%3Falt%3Dmedia%26token%3D32ca7964-afdc-4b7c-8373-e50ca0b5a1e3&width=768&dpr=3&quality=100&sign=7dc66f4684b2fa62ff1e3d615f189d48&sv=3" alt=""><figcaption><p>タイトル価格のセットアップ</p></figcaption></figure>
+<figure><img src="../images/setup-pricelist-ja.png" alt=""><figcaption><p>タイトル価格のセットアップ</p></figcaption></figure>
 
 赤い警告は、価格情報がないジャーナルの数を表示しています。またタイトル価格情報のないジャーナルをリストアップしたファイルをダウンロードすることができます。&#x20;
 
@@ -102,7 +176,7 @@ COUNTER準拠利用統計のアップロードの詳細については、[こち
 
 次に、画面左側の「Currency」タブを開きます。クリックすると下図のように表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252Fx7wVFylEPZEUWjebJSiV%252Ftutorial-create-package-setup-currency.png%3Falt%3Dmedia%26token%3Da349a26a-a025-41f0-b335-8dd04e2818f1&width=768&dpr=3&quality=100&sign=731f9ae8bd618f6258600558706f9ca2&sv=3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/setup-currency-ja.png" alt=""><figcaption><p>通貨のセットアップ</p></figcaption></figure>
 
 USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれかひとつを選択します。ここで選択した通貨によってタイトル価格に使用されるパブリックプライスリストが決定されます。
 
@@ -114,7 +188,7 @@ USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれか�
 
 画面左側の「Big Deal Costs」をクリックすると、下図のように表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252Fqcj8mHBhotmNIl3Kg2wz%252Ftutorial-create-package-setup-big-deal-costs.png%3Falt%3Dmedia%26token%3D3830ea70-6d14-4527-b9cb-cb9999e3f13b&width=768&dpr=3&quality=100&sign=e25c8792bc9419f61438ee1768178a56&sv=3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/setup-bigdeal-ja.png" alt=""><figcaption><p>ビッグディールコストのセットアップ</p></figcaption></figure>
 
 ここではビッグディール（パッケージ契約）の年間コストと、その値上げ率を設定することができます。
 
@@ -126,7 +200,7 @@ USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれか�
 
 &#x20;画面左側のPTAをクリックすると、下図のように表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FyqVTt0OeDhInNGq6wG2z%252Fsetup-pta.png%3Falt%3Dmedia%26token%3D3ea38049-1c0f-41ca-a8a9-5090b7bffbb6&width=768&dpr=3&quality=100&sign=71ee2e5f1e2996b37a55abc14dd09325&sv=3" alt=""><figcaption><p>PTAセットアップのぺージ</p></figcaption></figure>
+<figure><img src="../images/setup-pta-ja.png" alt=""><figcaption><p>PTAセットアップのページ</p></figcaption></figure>
 
 オレンジの警告は、PTA(Post Termination Access)データのアップロードを推奨しているものです。
 
@@ -142,7 +216,7 @@ PTAファイルの準備が出来たら、デバイス上でそのファイル�
 
 画面の左側にある「フィルター」をクリックすると、下図のように表示されます。
 
-![Journal Filter setup page](https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FQ9ZgTQJ8saca2hvyLNpU%252Ftutorial-create-package-setup-filter.png%3Falt%3Dmedia%26token%3Db93cc41d-15c5-4552-ba12-d8b62f59c51c&width=768&dpr=3&quality=100&sign=2ed4dff28a483aa014bceb92e8d0bd94&sv=3)
+<figure><img src="../images/setup-filter-ja.png" alt=""><figcaption><p>フィルターのセットアップページ</p></figcaption></figure>
 
 ジャーナルのフィルタリングについての詳細は、[こちらの記事](/unsub_guide_jpn/gogaido/jnarufirutno.md)をご覧ください。
 

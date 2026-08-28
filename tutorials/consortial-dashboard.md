@@ -9,7 +9,7 @@
 >
 > Unsubアカウントにコンソーシアムダッシュボードが表示されなくても、何も問題はありません（リクエストしたのに表示されない場合を除く）。コンソーシアムでコンソーシアムダッシュボードを希望する場合は、 <support@unsub.org> までご連絡ください。
 
-## 1 Find your consortium dashboard
+## 1 コンソーシアムダッシュボードの確認方法
 
 If you have a consortium dashboard, when you login to Unsub you'll see a tab labeled **Consortia**. See below screenshot for an example.
 
@@ -17,7 +17,7 @@ If you have a consortium dashboard, when you login to Unsub you'll see a tab lab
 
 ![Unsub logged in page with focus on consortial dashboard.](https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FVSawfq3vUO8mWRH1c7Pe%252Fconsortium-tab.png%3Falt%3Dmedia%26token%3De8afc3f9-fd78-4986-a8d7-87a25f1dbb2f&width=768&dpr=3&quality=100&sign=d6f7b0de9626e43f2b95299a643b2b53&sv=3)
 
-## 2 Navigate to the consortial dashboard
+## 2 コンソーシアムダッシュボードへのアクセス
 
 After finding the **Consortia** click on the consortium listed on the tab. In this case it's called "Consortium for Testing".&#x20;
 
@@ -36,7 +36,7 @@ On this page you can also see tabs for:
 
 上記の例では、1つのパッケージ(Elsevier)があります。コンソーシアムUnsubのパッケージはいくつでも作ることができます。 このページでは、以下のタブも表示されます。 ユーザー。コンソーシアムダッシュボードにアクセスできるユーザー。 ROR ID。このコンソーシアムダッシュボードに関連するROR識別子。ここでのROR識別子は、データのリンクには使用されません。
 
-## 3 Consortial package view
+## 3 コンソーシアムのパッケージ画面
 
 From the listing of packages for your consortium click on any one of the packages to see what's inside the package.
 
@@ -53,7 +53,7 @@ There's just one major difference here from the institutional Unsub dashboard: t
 
 上のスクリーンショットは、コンソーシアムパッケージの中身を示したものです。通常のUnsubダッシュボードと同じように、コンソーシアムダッシュボードには作成したシナリオが一覧表示されます。新しいシナリオを作成することもできますし、好きなだけシナリオを作成することもできます。 機関別Unsubダッシュボードとの大きな違いは、各シナリオの下に機関の数が表示されることです。各シナリオには、あなたのコンソーシアム内の機関の任意のサブセットを含めることができます。つまり、異なるシナリオに異なる機関を含め、それらのシナリオを比較することで、意思決定プロセスを支援することができます。
 
-## 4 Consortial dashboard (scenario)
+## 4 コンソーシアムダッシュボードのシナリオ画面
 
 Clicking on the first scenario in the above screenshot we get to the Unsub dashboard.&#x20;
 
@@ -69,7 +69,7 @@ If you click on the Member Institutions tab you get a list of the institutions i
 
 ![Unsub consortial dashboard, Member Institutions tab.](https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FGS20yLmC4sLCpX47RHEI%252Fconsortium-scenario-dashboard-members.jpg%3Falt%3Dmedia%26token%3D94dc1a28-9cb8-45fa-b410-d2fdc0532a63&width=768&dpr=3&quality=100&sign=d400dd30621b49141a79a331ec2585f2&sv=3)
 
-## 5 Understanding the consortial dashboard
+## 5 コンソーシアムダッシュボードの使い方
 
 Using the consortial dashboard is just like using the institutional dashboard. You can see how changing parameters, and subscribing to titles a-la-carte changes your forecasts.&#x20;
 
