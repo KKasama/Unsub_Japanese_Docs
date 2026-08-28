@@ -1,15 +1,13 @@
-> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/gogaido/no.md).
-
 # 通貨の設定
 
-Unsubでは、現在英国ポンド（GBP）と米国ドル（USD）のふたつの通貨に対応しています。
+Unsubでは、現在以下の3つの通貨に対応しています。
 
-通貨を変更するには、パッケージのページ（画面左上の名前をクリックできます）に行き、設定タブを表示し、最後に「Currency」メニューオプションを選び、使いたい通貨を選択します。
+- 米ドル（USD）
+- 英ポンド（GBP）
+- 日本円（JPY）
 
-<figure><img src="/files/iVSjF48eQxHv1hjM6SrB" alt=""><figcaption><p>通貨のセットアップ</p></figcaption></figure>
+通貨を変更するには、パッケージのページ（画面左上の名前をクリックできます）に行き、セットアップタブを表示し、「通貨」メニューオプションを選び、使いたい通貨を選択します。
 
-通貨を変更してもレートは自動変換されません。通貨の切り替えを行った場合、すでに入力したコストを新しい通貨建てのものに置き換えて更新する必要が生じますのでご注意ください。
+**重要事項：** 通貨の変更は自動的な換算を行いません。通貨を変更する場合は、既に入力済みのコストを新しい通貨建ての値に更新してください。具体的には、パッケージのビッグディールコストとシナリオのILL処理コストパラメータを編集する必要があります。また、カスタム価格リストの差し替えも必要です。
 
-具体的な作業としては、パッケージの[ビッグディールコスト](/unsub_guide_jpn/gogaido/biggudrupakkjino.md)とシナリオの[ILL Transaction Cost](/unsub_guide_jpn/refarensu/shinario/shinarionoparamta.md)のパラメータを編集する必要があります。また、カスタマイズされた価格リストを以前の通貨でアップロードしている場合は、置き換える必要があります。
-
-今後、需要に応じて他の通貨も対応していく予定です。サポートご希望の通貨があれば、ぜひお知らせください。
+JPYを選択した場合、JPYの価格のない外貨建てのジャーナルは、お客様でJPYに転換し、タイトル毎のISSNと価格を入れる必要があります。

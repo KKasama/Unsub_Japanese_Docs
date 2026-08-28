@@ -1,4 +1,3 @@
-> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/yokuaru/woudorekurainowosurebayoinodeshouka.md).
 
 # 個別購読を行う場合、どれくらいの数を購読すればよいのでしょうか。
 

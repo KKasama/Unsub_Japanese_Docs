@@ -1,5 +1,3 @@
-> For the complete documentation index, see [llms.txt](https://tamaki.gitbook.io/unsub_guide_jpn/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://tamaki.gitbook.io/unsub_guide_jpn/chtoriaru/pakkjino.md).
-
 # パッケージの作成
 
 {% hint style="warning" %}
@@ -40,7 +38,7 @@
 
 * COUNTER準拠利用統計のアップロード
 * 価格リストのアップロード
-* 通貨（米ドルもしくは英ポンド）の選択
+* 通貨（米ドル、英ポンド、日本円）の選択
 * ビッグディール（パッケージ契約）にかかっている金額
 
 推奨事項
@@ -105,7 +103,9 @@ COUNTER準拠利用統計のアップロードの詳細については、[こち
 
 <figure><img src="/files/ykyLrPXLL8T9NfjkKNqT" alt=""><figcaption></figcaption></figure>
 
-&#x20;As the alert states in the image above, the currency selection determines which public pricelist will be used for title prices.USD（米ドル）もしくはGBP（英ポンド）のいずれかひとつを選択します。上図内のアラートに表示されているように、ここで選択した通貨によってタイトル価格に使用されるパブリックプライスリストが決定されます。
+USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれかひとつを選択します。ここで選択した通貨によってタイトル価格に使用されるパブリックプライスリストが決定されます。
+
+**注意：** JPYを選択した場合、JPYの価格のない外貨建てのジャーナルは、お客様でJPYに転換し、タイトル毎のISSNと価格を入れる必要があります。
 
 通貨設定の詳細については、[こちら](/unsub_guide_jpn/gogaido/no.md)を参照してください。
 
