@@ -17,6 +17,6 @@
 
 下にログインからセットアップまでのビデオを準備しております。
 
-{% embed url="<https://vimeo.com/433448412>" %}
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/433448412" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 本マニュアルに対するご意見やご希望がありましたら、<support@unsub.org>までご連絡ください。
