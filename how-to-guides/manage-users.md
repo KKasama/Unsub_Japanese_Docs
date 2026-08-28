@@ -14,10 +14,10 @@
 
 以下が４つのロールです。
 
-* **Admin**: Has all permissions, including adding and deleting other users, including yourself. Only give admin permissions to people you trust.
-* **Collaborator**: Has all permissions except adding/deleting users and changing other users' roles.
-* **Viewer**: Has read-only access to your institution's Unsub.
-* **Unaffiliated**: Has no access to your Unsub account.
+* **管理者（Admin）**: 自分を含む他のユーザーの追加や削除を含む全権限を有します。管理者権限は、信頼できる人だけに与えてください。
+* **コラボレーター（Collaborator）**: ユーザーの追加/削除や他のユーザーのロールの変更以外のすべての権限を有します。
+* **ビューアー（Viewer）**: お客様機関のUnsubの読み取りアクセス権のみを有する権限です。
+* **未所属（Unaffiliated）**: お客様のUnsubアカウントに一切アクセスできないロールです。
 
 アカウントが作成された人のもとには、アカウントの新規作成方法を記載したメールが送信されます。サインインすると、管理者が設定したアクセス権でのアクセスが許可されます。
 
