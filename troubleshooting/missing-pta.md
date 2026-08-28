@@ -1,6 +1,8 @@
 
 # "Missing PTA"のメッセージは、何を意味するのでしょうか？
 
+> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+
 シナリオ画面の上部に、下のようなマークが表示されることがあります。
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/337656123/7f3347e60f6794ef2fa7318a/image.png?expires=1621208724&#x26;signature=7eec8c9c1a9ff32aaf634429e9a88aff8913dfc1444b849d89e53dc688bfe527" alt=""><figcaption></figcaption></figure>

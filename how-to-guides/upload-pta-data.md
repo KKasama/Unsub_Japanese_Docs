@@ -1,6 +1,9 @@
 
 # PTA(購読終了後アクセス権)情報のアップロード
 
+> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+
+
 各ジャーナルのPTA(Post-Termination Access)の日付、つまり解約後もアクセス可能なコンテンツの範囲設定は、Unsubで予測を行うにあたって重要な情報となります。特にビッグディールの解約後数年間は、バックコンテンツが全体的なアクセス確保において重要となってきます。
 
 言うまでもなく、このことはジャーナルによって異なります。数学や哲学のように、バックコンテンツが長期間にわたって有効性を持ち続ける分野では、PTAは非常に重要です。他方、生物医学のように圧倒的に新しい論文が読まれる分野においては、PTAによる解約後のアクセス権はそこまで重要ではなくなります。Unsubでは膨大な数の図書館から集められた無数のデータからなる学習セットを活用して上記を考慮し、COUNTERデータを使ったお客様向けのカスタマイズを行っています。&#x20;
@@ -11,7 +14,7 @@
 
 まずPTAを設定したいパッケージに移動します。Setupタブをクリックし、PTAの箇所までスクロールします。
 
-<figure><img src="/files/RyJGUhMw6X5KC5AyMOwo" alt=""><figcaption><p>PTAのセットアップ</p></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252F4FEuB3eb6R8eFeqKSc2X%252Fpta-setup.png%3Falt%3Dmedia%26token%3D930d393f-48e7-44bb-8f78-ba68349a7c3e&width=768&dpr=3&quality=100&sign=89f142553c1b16fb3d99c8498f5e962b&sv=3" alt=""><figcaption><p>PTAのセットアップ</p></figcaption></figure>
 
 上図のオレンジの箇所に、PTAのデータが不足しているという警告が表示されています。
 
@@ -24,13 +27,13 @@ ISSN、Start Date、End Dateの3つのカラムのみで構成されたシンプ
 
 以下はその例です。
 
-<figure><img src="/files/2MgwtcH47JlDmwXXHYqV" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FEzNuIDspD4tn1v1YlWps%252Fsetup-pta-example-pta-file.png%3Falt%3Dmedia%26token%3D1192b9a6-fe65-49ad-a63f-097ae15f8b84&width=768&dpr=3&quality=100&sign=f7a1c06cf3b54935f82a6dd2ef84fc66&sv=3" alt=""><figcaption></figcaption></figure>
 
 To upload your file, click the Paperclip, then find your file and select it, then click the Upload arrow. You'll wait a minute or two while Unsub starts to upload and process the file. Then when it's done, you'll see something like this:
 
 アップロードの際は、クリップのアイコンをクリックして該当ファイルを選択し、アップロードの矢印をクリックします。処理にはおよそ1～2分を要し、アップロードが完了すると下図のような画面が表示されます。
 
-<figure><img src="/files/jRssrYLmiHh1tU84Ssx3" alt=""><figcaption><p>PTAファイルのアップロードに成功した例</p></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FurVO2psTBmOWtTrzwdBF%252Fsetup-pta-success.png%3Falt%3Dmedia%26token%3D1c90acd3-4f81-4970-9b9b-9816f8415262&width=768&dpr=3&quality=100&sign=0b800431af391290f19bca8b7d88fddf&sv=3" alt=""><figcaption><p>PTAファイルのアップロードに成功した例</p></figcaption></figure>
 
 Your PTA fileのセクションを見ると「カスタム日付範囲を使用しているジャーナルが373件あります」と表示されています。右端のダウンロード矢印をクリックすると、そのジャーナルの一覧と設定された日付範囲を確認することができます。&#x20;
 

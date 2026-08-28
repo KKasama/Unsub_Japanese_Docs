@@ -1,15 +1,18 @@
 
 # 個別ジャーナルの閲覧
 
+> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+
+
 シナリオ画面のヒストグラムまたはテーブルビューで任意のジャーナルをクリックすると、単一ジャーナルビューを表示することができます。
 
 下図のジャーナル ”Chest” のボックスをクリックすると、単一ジャーナル表示になります。
 
-<figure><img src="/files/uiDx2bA8Jd7hBswckv7W" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FsAuZqTnlUn95s8Fi3nTD%252Fsingle-journal-view-click.png%3Falt%3Dmedia%26token%3Da73c516f-2db8-444e-ad20-21666731fe8b&width=768&dpr=3&quality=100&sign=3e63cb96b1e75790f7c2048a893069f8&sv=3" alt=""><figcaption></figcaption></figure>
 
 こうすることで、タイトルの詳細が表示されます。
 
-<figure><img src="/files/mmvRaweeaBo326aQxvXP" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FGmBY2vBmmu4ZqQw1QYZV%252Fsingle-journal-view-zoomed.png%3Falt%3Dmedia%26token%3D6c8bd7d3-3e47-4253-ae62-cd1559d6e5f2&width=768&dpr=3&quality=100&sign=ef42e48ca9c675ff7e257f59380581c9&sv=3" alt=""><figcaption></figcaption></figure>
 
 個別タイトルの詳細画面で、ジャーナルのメタデータと[Cost Per Use](/unsub_guide_jpn/refarensu/li-yong-jinecost-per-use.md)の計算の内訳が表示され、購読の設定/解除ができます。
 
@@ -56,7 +59,7 @@ Cost Per Useは、Net subscription costをPaywalled usesの数で割った額と
 
 ### Timelinesタブ
 
-<figure><img src="/files/f4wTIWjKu9RZgyHEn7Ea" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FytSxuY7mr8JhxHkqV2ab%252Fsingle-journal-view-zoomed-timeline.png%3Falt%3Dmedia%26token%3Dcf0ecd20-3329-413e-9ae8-30fa4ae9d6ce&width=768&dpr=3&quality=100&sign=580cb4540b74ef3c83fe1ccb6b8e3d08&sv=3" alt=""><figcaption></figcaption></figure>
 
 Timelinesタブには、いくつかのセクションがあります。
 

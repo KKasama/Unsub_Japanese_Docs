@@ -1,11 +1,14 @@
 
 # COUNTER準拠の統計アップロード
 
+> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+
+
 Unsubを使用して購読の分析と予測を行う前に、お客様のCOUNTERデータをアップロードする必要があります。Unsubはこのデータを使って、予測モデルをお客様の機関に合わせてカスタマイズします。&#x20;
 
 まず、パッケージのセットアップに移動します。COUNTERタブは以下のように表示されます。
 
-<figure><img src="/files/9xPEUIDjuIARbs8Khb8T" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FWaHKiGLGcc7A09LtGRY9%252Fupload-counter-data-not-loaded.png%3Falt%3Dmedia%26token%3D4e8f9518-5a11-47c2-8d0a-82bd2f231b9c&width=768&dpr=3&quality=100&sign=ef9bf36209725541eecdc87b2cffa99b&sv=3" alt=""><figcaption></figcaption></figure>
 
 COUNTER 4も引き続きサポートされていますが、新しいパッケージにはCOUNTER 5データを使うことをお勧めします。&#x20;
 
@@ -24,7 +27,7 @@ COUNTER準拠の利用統計ファイルが手元にあれば、アップロー�
 
 システムがファイルのアップロードを開始し、処理には数分を要します。アップロードが完了すると、下図のような画面が表示されます。
 
-<figure><img src="/files/3duXladdfmcTN2dP58In" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FtIYSqiE2nURJyr6094hr%252Fupload-counter-data-fully-loaded.png%3Falt%3Dmedia%26token%3Dfbf80b53-3ff7-4e36-8395-e07c13026cbc&width=768&dpr=3&quality=100&sign=134e9a57af09ee83382e205e3d6c5bcc&sv=3" alt=""><figcaption></figcaption></figure>
 
 各ファイルの右端にあるダウンロードの矢印をクリックすると、保存されているデータを確認することができます。このデータを後で置き換えたい場合は、行の右側にあるゴミ箱をクリックし、新しいファイルをアップロードしてください。シナリオ予測は自動的に新しいデータを使って再計算されます。&#x20;
 
