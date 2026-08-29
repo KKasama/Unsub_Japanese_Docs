@@ -100,7 +100,7 @@ OpenAlexのレベル0の全コンセプトとそのIDをJSON配列にしたも�
 
 購読のNet Cost。上記のsubscription\_costからILL費用を差し引いたものです。利用率多くかつ料金の安いジャーナルではマイナスとなることもあり、つまり購読した方が*安く済むということになります。*
 
-### Fulfillment <a href="#fulfillment" id="fulfillment"></a>
+### アクセス充足 <a href="#fulfillment" id="fulfillment"></a>
 
 **use\_oa\_percent**
 
