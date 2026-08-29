@@ -1,6 +1,6 @@
 # パッケージの作成
 
-> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+> **※ 注意：** スクリーンショットはできるだけ日本語を利用しておりますが、機能制限により英語版で提供している箇所もありますので、予めご了承ください。
 
 
 > **⚠️ 注意：**
@@ -54,88 +54,89 @@
 以下は、セットアップを図式化したガイドです。シナリオの詳細についてはこの後のチュートリアルで説明しますが、セットアップの全体像については、このガイドをご覧ください。
 
 <figure>
-<svg viewBox="0 0 720 520" xmlns="http://www.w3.org/2000/svg" style="max-width:720px;width:100%;font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Noto Sans JP',sans-serif;">
+<svg viewBox="0 0 820 540" xmlns="http://www.w3.org/2000/svg" style="max-width:820px;width:100%;font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Noto Sans JP',sans-serif;">
   <!-- 背景 -->
-  <rect width="720" height="520" fill="#f8f9fa" rx="8"/>
+  <rect width="820" height="540" fill="#f8f9fa" rx="8"/>
   <!-- 必須項目 (パッケージレベル) -->
-  <rect x="20" y="15" width="680" height="130" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <rect x="20" y="15" width="780" height="130" fill="none" stroke="#333" stroke-width="2" rx="6"/>
   <text x="35" y="40" font-size="14" font-weight="bold" fill="#333">必須項目</text>
   <!-- COUNTER -->
-  <rect x="35" y="50" width="230" height="80" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
-  <text x="150" y="75" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">COUNTERファイルのアップロード</text>
-  <text x="150" y="93" font-size="10" fill="#555" text-anchor="middle">COUNTER 4: JR1</text>
-  <text x="150" y="106" font-size="10" fill="#555" text-anchor="middle">- または -</text>
-  <text x="150" y="119" font-size="10" fill="#555" text-anchor="middle">COUNTER 5: TR_J2, TR_J3, TR_J4</text>
+  <rect x="35" y="50" width="280" height="80" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="175" y="75" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">COUNTERファイルのアップロード</text>
+  <text x="175" y="93" font-size="10" fill="#555" text-anchor="middle">COUNTER 4: JR1</text>
+  <text x="175" y="106" font-size="10" fill="#555" text-anchor="middle">ー または ー</text>
+  <text x="175" y="119" font-size="10" fill="#555" text-anchor="middle">COUNTER 5: TR_J2, TR_J3, TR_J4</text>
   <!-- 通貨 -->
-  <rect x="280" y="50" width="130" height="35" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="345" y="73" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">通貨の設定</text>
+  <rect x="330" y="50" width="150" height="35" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="405" y="73" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">通貨の設定</text>
   <!-- タイトル価格 -->
-  <rect x="280" y="95" width="130" height="35" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
-  <text x="345" y="118" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトル価格</text>
+  <rect x="330" y="95" width="150" height="35" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="405" y="118" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトル価格</text>
   <!-- ビッグディール -->
-  <rect x="425" y="50" width="260" height="45" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="555" y="70" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">ビッグディールのコストと</text>
-  <text x="555" y="86" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">年間値上げ率の設定</text>
-  <!-- 推奨・オプション -->
-  <rect x="20" y="160" width="340" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <rect x="495" y="50" width="290" height="45" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="640" y="70" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">ビッグディールのコストと</text>
+  <text x="640" y="86" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">年間値上げ率の設定</text>
+  <!-- 推奨事項 -->
+  <rect x="20" y="160" width="385" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
   <text x="35" y="182" font-size="14" font-weight="bold" fill="#333">推奨事項</text>
-  <rect x="35" y="192" width="310" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
-  <text x="190" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">購読終了後アクセス権(PTA)データ</text>
-  <rect x="380" y="160" width="320" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
-  <text x="395" y="182" font-size="14" font-weight="bold" fill="#333">オプション</text>
-  <rect x="395" y="192" width="290" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
-  <text x="540" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトルホワイトリスト</text>
+  <rect x="35" y="192" width="355" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="212" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">購読終了後アクセス権(PTA)データ</text>
+  <!-- オプション -->
+  <rect x="420" y="160" width="380" height="70" fill="none" stroke="#333" stroke-width="2" rx="6"/>
+  <text x="435" y="182" font-size="14" font-weight="bold" fill="#333">オプション</text>
+  <rect x="435" y="192" width="350" height="30" fill="#a8d5a2" stroke="#6aab64" stroke-width="1.5" rx="4"/>
+  <text x="610" y="212" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">タイトルホワイトリスト</text>
   <!-- シナリオパラメータ (シナリオレベル - 破線) -->
-  <rect x="20" y="250" width="680" height="140" fill="none" stroke="#333" stroke-width="2" stroke-dasharray="8,4" rx="6"/>
+  <rect x="20" y="250" width="780" height="145" fill="none" stroke="#333" stroke-width="2" stroke-dasharray="8,4" rx="6"/>
   <text x="35" y="275" font-size="14" font-weight="bold" fill="#333">シナリオパラメータ（設定可能）</text>
   <!-- コスト -->
-  <rect x="35" y="285" width="210" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="140" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">コスト</text>
-  <text x="140" y="320" font-size="10" fill="#555" text-anchor="middle">・タイトル別購読コスト増加率</text>
-  <text x="140" y="333" font-size="10" fill="#555" text-anchor="middle">・タイトル別コンテンツ料金</text>
+  <rect x="35" y="285" width="240" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="155" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">コスト</text>
+  <text x="155" y="320" font-size="10" fill="#555" text-anchor="middle">・タイトル別購読コスト増加率</text>
+  <text x="155" y="333" font-size="10" fill="#555" text-anchor="middle">・タイトル別コンテンツ料金</text>
   <!-- フルフィルメント -->
-  <rect x="35" y="348" width="210" height="35" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="140" y="363" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">フルフィルメント</text>
-  <text x="140" y="377" font-size="9" fill="#555" text-anchor="middle">ブロンズOA? グリーンOA? ResearchGate?</text>
+  <rect x="35" y="348" width="240" height="38" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="155" y="365" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">フルフィルメント</text>
+  <text x="155" y="379" font-size="9" fill="#555" text-anchor="middle">ブロンズOA? グリーンOA? ResearchGate?</text>
   <!-- ILL -->
-  <rect x="260" y="285" width="210" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="365" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">相互貸借 (ILL)</text>
-  <text x="365" y="320" font-size="10" fill="#555" text-anchor="middle">・ILL取引コスト</text>
-  <text x="365" y="333" font-size="10" fill="#555" text-anchor="middle">・ILLリクエスト率</text>
+  <rect x="290" y="285" width="230" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="405" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">相互貸借 (ILL)</text>
+  <text x="405" y="320" font-size="10" fill="#555" text-anchor="middle">・ILL取引コスト</text>
+  <text x="405" y="333" font-size="10" fill="#555" text-anchor="middle">・ILLリクエスト率</text>
   <!-- 引用/著者 -->
-  <rect x="485" y="285" width="200" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="585" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">引用 / 著者</text>
-  <text x="585" y="320" font-size="10" fill="#555" text-anchor="middle">・機関の引用ウェイト</text>
-  <text x="585" y="333" font-size="10" fill="#555" text-anchor="middle">・機関の著者ウェイト</text>
+  <rect x="535" y="285" width="250" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
+  <text x="660" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">引用 / 著者</text>
+  <text x="660" y="320" font-size="10" fill="#555" text-anchor="middle">・機関の引用調整係数</text>
+  <text x="660" y="333" font-size="10" fill="#555" text-anchor="middle">・機関の著者調整係数</text>
   <!-- セットアップ完了 -->
-  <text x="35" y="420" font-size="16" font-weight="bold" fill="#333">セットアップ完了！</text>
-  <rect x="35" y="430" width="120" height="60" fill="#e8f5e9" stroke="#a8d5a2" stroke-width="1" rx="3"/>
-  <rect x="42" y="460" width="12" height="25" fill="#a8d5a2"/>
-  <rect x="58" y="450" width="12" height="35" fill="#a8d5a2"/>
-  <rect x="74" y="455" width="12" height="30" fill="#90caf9"/>
-  <rect x="90" y="440" width="12" height="45" fill="#a8d5a2"/>
-  <rect x="106" y="445" width="12" height="40" fill="#90caf9"/>
-  <rect x="122" y="435" width="12" height="50" fill="#a8d5a2"/>
+  <text x="35" y="425" font-size="16" font-weight="bold" fill="#333">セットアップ完了！</text>
+  <rect x="35" y="435" width="120" height="60" fill="#e8f5e9" stroke="#a8d5a2" stroke-width="1" rx="3"/>
+  <rect x="42" y="465" width="12" height="25" fill="#a8d5a2"/>
+  <rect x="58" y="455" width="12" height="35" fill="#a8d5a2"/>
+  <rect x="74" y="460" width="12" height="30" fill="#90caf9"/>
+  <rect x="90" y="445" width="12" height="45" fill="#a8d5a2"/>
+  <rect x="106" y="450" width="12" height="40" fill="#90caf9"/>
+  <rect x="122" y="440" width="12" height="50" fill="#a8d5a2"/>
   <!-- 凡例 -->
-  <line x1="450" y1="430" x2="500" y2="430" stroke="#333" stroke-width="2"/>
-  <text x="510" y="434" font-size="11" fill="#333">パッケージレベル</text>
-  <line x1="450" y1="450" x2="500" y2="450" stroke="#333" stroke-width="2" stroke-dasharray="6,3"/>
-  <text x="510" y="454" font-size="11" fill="#333">シナリオレベル</text>
-  <rect x="450" y="465" width="50" height="14" fill="#a8d5a2" stroke="#6aab64" stroke-width="1" rx="2"/>
-  <text x="510" y="477" font-size="11" fill="#333">ファイル</text>
-  <rect x="450" y="485" width="50" height="14" fill="#90caf9" stroke="#5b9bd5" stroke-width="1" rx="2"/>
-  <text x="510" y="497" font-size="11" fill="#333">設定</text>
+  <line x1="500" y1="440" x2="550" y2="440" stroke="#333" stroke-width="2"/>
+  <text x="560" y="444" font-size="11" fill="#333">パッケージレベル</text>
+  <line x1="500" y1="460" x2="550" y2="460" stroke="#333" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="560" y="464" font-size="11" fill="#333">シナリオレベル</text>
+  <rect x="500" y="475" width="50" height="14" fill="#a8d5a2" stroke="#6aab64" stroke-width="1" rx="2"/>
+  <text x="560" y="487" font-size="11" fill="#333">ファイル</text>
+  <rect x="500" y="495" width="50" height="14" fill="#90caf9" stroke="#5b9bd5" stroke-width="1" rx="2"/>
+  <text x="560" y="507" font-size="11" fill="#333">設定</text>
 </svg>
 <figcaption><p>Unsubセットアップの図ガイド</p></figcaption>
 </figure>
 
 必須項目のファイルと情報がアップロードおよび入力されていることを確認してください。推奨セクションにあるものについてはあるに越したことはないですが、もしこの後で用意できるのであれば、その際にこのページで確認してください。
 
-新規のパッケージは、下図のように表示されます。（4つの必須データタブには赤い❌がついていますが、これはまだ設定する必要があることを示しています）
+下図は、パッケージのセットアップ画面の例です。左側のサイドバーに各設定項目（COUNTER、価格リスト、通貨、ビッグディールコストなど）が表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FnCrw4EXNbcaZOFIUZsiS%252Ftutorial-create-package-new-package-setup-empty.png%3Falt%3Dmedia%26token%3D361ac1e3-0544-4544-961d-291d288f3dae&width=768&dpr=3&quality=100&sign=f11152abb437f343aa09255dd43a521d&sv=3" alt=""><figcaption><p>必須項目の入力</p></figcaption></figure>
+<figure><img src="../images/setup-overview-ja.png" alt=""><figcaption><p>パッケージのセットアップ画面</p></figcaption></figure>
 
-PTAの項目とオプションデータ（Filter）の下に灰色の選択できないタブがそれぞれ1つ存在しますが、これらは上の4つの必須データが用意されるまで、操作することはできません。
+新規パッケージの場合、4つの必須データタブには赤い❌が表示されます。PTAの項目とオプションデータ（フィルター）は、必須データが用意されるまで操作することはできません。
 
 ### 2.1 COUNTER準拠の利用統計
 
