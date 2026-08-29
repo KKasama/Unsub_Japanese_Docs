@@ -12,7 +12,7 @@
 
 パッケージのリストから、お好きなパッケージの右側にある3つの縦並びの点のアイコンをクリックします。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FtaObLB8JjCOv8vITeqqj%252Fchange-package-description-names.jpg%3Falt%3Dmedia%26token%3D821e3b21-d5f1-491a-b71a-bb8c4e72959c&width=768&dpr=3&quality=100&sign=c390a1dcee11afbd0a65ed9e40b87a66&sv=3" alt=""><figcaption><p>画面右側にある3つの縦並びの点をクリックし、パッケージ名や説明の編集ができます。</p></figcaption></figure>
+<figure><img src="../images/change-package-menu-ja.png" alt=""><figcaption><p>画面右側にある3つの縦並びの点をクリックし、パッケージ名や説明の編集ができます。</p></figcaption></figure>
 
 「パッケージ名を編集」もしくは「説明を編集」の箇所をクリックするとポップアップが表示されます。既に入力されているテキストを編集し、完了したら「更新」をクリックします。
 
