@@ -94,9 +94,9 @@
   <text x="155" y="305" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">コスト</text>
   <text x="155" y="320" font-size="10" fill="#555" text-anchor="middle">・タイトル別購読コスト増加率</text>
   <text x="155" y="333" font-size="10" fill="#555" text-anchor="middle">・タイトル別コンテンツ料金</text>
-  <!-- フルフィルメント -->
+  <!-- 充足ソース -->
   <rect x="35" y="348" width="240" height="38" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
-  <text x="155" y="365" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">フルフィルメント</text>
+  <text x="155" y="365" font-size="11" font-weight="bold" fill="#333" text-anchor="middle">充足ソース</text>
   <text x="155" y="379" font-size="9" fill="#555" text-anchor="middle">ブロンズOA? グリーンOA? ResearchGate?</text>
   <!-- ILL -->
   <rect x="290" y="285" width="230" height="55" fill="#90caf9" stroke="#5b9bd5" stroke-width="1.5" rx="4"/>
