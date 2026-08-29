@@ -1,10 +1,6 @@
 
-# APCの価格はどこから入手しているのえでしょうか？
+# APCの価格はどこから入手しているのでしょうか？
 
-各出版社様で公開されているAPC価格を使用しています。
+APCの価格は[OpenAlex](https://docs.openalex.org/)から取得しています。OpenAlexは、インデックスしている各オープンアクセス論文について、論文処理費用（APC）を記録しています。価格が論文単位で記録されているため、APCレポートは最大手の数社だけでなく、幅広い出版社をカバーしており、OpenAlexの更新に伴い価格も更新されます。
 
-* [Elsevier](https://www.elsevier.com/about/policies/pricing) (2020)
-* [Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html) (USA, 2020)
-* [Springer Nature ](https://www.springernature.com/gp/open-research/journals-books/journals)(2020)
-* [SAGE](https://us.sagepub.com/en-us/nam/sage-choice-journal-and-pricing-exceptions) (2020)
-* [Taylor & Francis](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/) (USA, 最高金額を採用, 2020)
+以前は、5大出版社（Elsevier、Wiley、Springer Nature、SAGE、Taylor & Francis）の固定リスト価格（2020年時点）を使用していましたが、現在はOpenAlexの論文単位のAPCデータを使用しています。

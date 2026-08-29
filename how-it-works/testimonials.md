@@ -21,6 +21,6 @@ MITは最近Elsevierの契約を解除しました。その直後、図書館長
 
 また、以下のサイトで一般に公開されているユーザーグループもあり、一部のユーザーは自分の経験について議論しています。<https://groups.google.com/forum/#!forum/unsub-discuss>
 
-Unsubに関する記事が掲載されているプレスページもあります： <https://unsub.org/press&#x20>;
+Unsubに関する記事が掲載されているプレスページもあります： <https://unsub.org/press>
 
 その他、Unsubに言及している記事や学会発表もいくつか確認しています。

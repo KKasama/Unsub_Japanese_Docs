@@ -19,6 +19,6 @@ Visser, M., van Eck, N. J., & Waltman, L. (2020). *Large*-*scale comparison of b
 
 難しい言葉を使うと、直線外挿を利用しています。例えば「Journal of Current Chemistry」にお客様機関から10の投稿があった場合、今後５年間も毎年10の投稿があると予測します。引用についても、同じ手法が利用されています。
 
-### How often is authorship and citation data updated?引用および投稿数のデータは、どれくらいの頻度でアップデートされるのでしょうか？
+### 引用および投稿数のデータは、どれくらいの頻度でアップデートされるのでしょうか？
 
 こちらについては、近日中に情報をアップいたします。

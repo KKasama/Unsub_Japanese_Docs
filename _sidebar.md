@@ -39,8 +39,6 @@
   * [ROR — 研究機関の個別ID](reference/ror-id.md)
   * [個別ジャーナルの閲覧](reference/single-journal-view.md)
   * [外部データソースについて](reference/data-sources.md)
-  * [所属データ](reference/affiliation-data.md)
-  * [引用データ](reference/citation-data.md)
 * [Unsubのしくみ](how-it-works/README.md)
   * [OA Publishの利用料金はどのように計算されますか？](how-it-works/oa-publish-costs.md)
   * [ILLリクエストとILLコストはどのように計算するのですか？](how-it-works/ill-costs.md)

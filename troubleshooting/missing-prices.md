@@ -1,19 +1,20 @@
 
-# "Missing Prices"のメッセージは何を意味するのでしょうか？
+# "価格情報不足リスト"の警告は何を意味するのでしょうか？
 
-> **※ 注意：** このページのスクリーンショットは英語版です。実際の画面は日本語で表示されます。
+予測シナリオの上部に、以下のような警告が表示されることがあります。
 
+![価格情報不足リストの警告](../images/missing-prices-warning-ja.png)
 
-シナリオ画面の上部に、下のようなマークが表示されることがあります。
+この警告は、COUNTERレポートに含まれるジャーナルの中に、購読価格が不明なものがある場合に表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FBLRJ8hD6csIvgb2kzdp2%252Fmissing-prices.png%3Falt%3Dmedia%26token%3Ddfd46438-67eb-4aac-8c1b-783e629dbbe2&width=768&dpr=3&quality=100&sign=ce583e78d9c2133aebc5db704d09959e&sv=3" alt=""><figcaption></figcaption></figure>
+これらのジャーナルを予測シナリオに含めたいのですが、タイトル単位の購読価格がなければ、タイトル毎の利用単価を計算することができません。
 
-このメッセージは、Unsubが価格を認識していない個別タイトルがCOUNTERファイルでアップロードされると表示されます。個別タイトルの価格情報が欠落していると、タイトル毎の利用単価を計算することができません。
+そのため、価格情報のないジャーナルは予測ダッシュボードから除外されます。お客様にとって重要なタイトルが除外されている可能性があるため、Unsubの予測精度が低下してしまいます。
 
-Unsubダッシュボード上では、価格情報のないジャーナルは除外されて表示されます。お客様にとって重要なタイトルを見落としてしまっている可能性を考えると、Unsubをご利用いただく価値が下がってしまいます。営業担当に、価格情報が欠落しているジャーナルの個別価格を確認してください。
+営業担当者に連絡して、不足している価格の見積もりを入手してください。
 
-どのジャーナルの個別価格が欠落しているかは、パッケージのページからSetupタブを選択し、"Pricelist"メニューを開いてください。"View Journals"をクリックすると、価格情報のないタイトル一覧がExcelでダウンロードできます。
+どのジャーナルの価格が不足しているかを確認するには、パッケージページに移動し（画面左上のパッケージ名をクリック）、セットアップタブを選択して、「価格リスト」メニューを開きます。「欠落タイトルを表示」をクリックすると、価格情報のないジャーナル一覧をスプレッドシートでダウンロードできます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FFMmK4BO5cl92KNnO4aNE%252Fprices-setup-with-counter-withcustom.png%3Falt%3Dmedia%26token%3Df462b099-f153-4caf-ad95-602d50dc68db&width=768&dpr=3&quality=100&sign=c515ff19afec2aeb43a52a526129e5bf&sv=3" alt=""><figcaption></figcaption></figure>
+![価格リストのセットアップ画面](../images/missing-prices-setup-ja.png)
 
-タイトルの個別価格が分かったら、ジャーナル価格リストに当該タイトルを追加しアップロードします。価格リストのフォーマットとアップロードについての詳細は、[こちらの記事](/unsub_guide_jpn/gogaido/taitorunoappurdo.md)をご覧ください。
+不足しているタイトルの価格見積もりが入手できたら、カスタムジャーナル価格リストファイルをアップロードして警告を解消できます。価格リストファイルのフォーマットとアップロード方法については、[こちらの記事](how-to-guides/upload-title-prices.md)をご覧ください。
