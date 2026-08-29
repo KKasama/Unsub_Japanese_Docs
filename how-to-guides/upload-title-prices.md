@@ -17,18 +17,13 @@
 ジャーナルのタイトル価格がアップロードされていない場合、以下の2つの画面のうちいずれかが表示されます。
 
 * **COUNTERレポートがアップロードされていない場合**: プライスリストのページ上のこのメッセージでは、価格のデータが必要であることだけが記載されています。
-*
 
-```
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FDiVBmNoPexX9q1oBuNsC%252Fprices-setup-no-counter-data-state.png%3Falt%3Dmedia%26token%3D3bd7ce5b-ffc1-495d-814b-16101a816919&width=768&dpr=3&quality=100&sign=914071aa2d9e1b167f1b9cebfd1c99e3&sv=3" alt=""><figcaption></figcaption></figure>
-```
+
+<figure><img src="../images/setup-pricelist-ja.png" alt=""><figcaption><p>価格リストのセットアップ画面</p></figcaption></figure>
 
 * **COUNTERレポートがアップロードされている場合**: プライスリストデータが必要であることと、価格情報が不足しているタイトルの数が表示されます。
-*
 
-```
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252F6ekBUaew9UocBEujxY0e%252Fprices-setup-with-counter-data-state.png%3Falt%3Dmedia%26token%3De36a5d68-d899-4366-84fa-a1b789e91f0b&width=768&dpr=3&quality=100&sign=4e1e8adb0f387973967837420ec3a3ac&sv=3" alt=""><figcaption></figcaption></figure>
-```
+<figure><img src="../images/setup-pricelist-ja.png" alt=""><figcaption><p>COUNTERレポートアップロード済みの価格リスト画面</p></figcaption></figure>
 
 View Missing Titles" をクリックすると、ISSN、タイトル、そのタイトルの COUNTER データのおおよその合計（"counter\_total" というカラム）を含むスプレッドシートがダウンロードされます。これによりUnsub ダッシュボードに価格が反映されていることの重要性をご理解いただけます。counter\_total" カラムは、COUNTER レポートのデータのみを含み、Unsub ダッシュボードで表示される引用や著者のデータは含まれません。ファイルは下図のようなものとなります。
 
@@ -43,7 +38,7 @@ View Missing Titles" をクリックすると、ISSN、タイトル、そのタ�
 
 まずアップロードボタンをクリックし、クリップのアイコンをクリックします。該当のファイルを選択して矢印をクリックすると1、2分後にアップロードの処理が完了します。アップロード後、下記のような画面が表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FFMmK4BO5cl92KNnO4aNE%252Fprices-setup-with-counter-withcustom.png%3Falt%3Dmedia%26token%3Df462b099-f153-4caf-ad95-602d50dc68db&width=768&dpr=3&quality=100&sign=c515ff19afec2aeb43a52a526129e5bf&sv=3" alt=""><figcaption><p>価格リストのセットアップ（COUNTERレポートと、一部の価格がアップロードされた状態）</p></figcaption></figure>
+<figure><img src="../images/setup-pricelist-ja.png" alt=""><figcaption><p>価格リストのセットアップ（COUNTERレポートと、一部の価格がアップロードされた状態）</p></figcaption></figure>
 
 アップロードした価格を確認したい場合は、ファイル列の右端にあるダウンロードボタンをクリックします。既にアップロードされているジャーナル価格表を差し替えたい場合は、ファイル行の右側にあるゴミ箱をクリックし、新しいファイルをアップロードしてください。
 

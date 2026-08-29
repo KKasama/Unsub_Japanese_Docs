@@ -1,7 +1,3 @@
----
-description: どちらも有用なツールですが、目的が異なります
----
-
 # UnsubはConsortium Managerとどう違うのですか？
 
 Consortium Manager（CM）とUnsubの違いは、その名前に表れています。CMは既存の購読を**管理（manage）**するためのツールであり、Unsubは価値の低い購読を見つけて**購読解除（unsub**scribe）**し、コストを削減するためのツールです。

@@ -6,7 +6,7 @@
 
 APC（論文投稿費）レポートのタブは、機関画面で確認することができます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252F94BTHnw5ibBhR5sD8uh8%252Fapc-report.png%3Falt%3Dmedia%26token%3D246e311c-6e87-408e-994b-2d8bf01f6463&width=768&dpr=3&quality=100&sign=5ae2ee3a8c5db20804b6cf18a1c5c934&sv=3" alt=""><figcaption><p>APCレポートのタブ</p></figcaption></figure>
+<figure><img src="../images/apc-report-ja.png" alt=""><figcaption><p>APCレポートのタブ</p></figcaption></figure>
 
 ダウンロードボタンをクリックすると、スプレッドシートをダウンロードできます。
 

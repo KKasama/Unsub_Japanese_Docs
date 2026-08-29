@@ -14,7 +14,7 @@
 
 まずPTAを設定したいパッケージに移動します。Setupタブをクリックし、PTAの箇所までスクロールします。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252F4FEuB3eb6R8eFeqKSc2X%252Fpta-setup.png%3Falt%3Dmedia%26token%3D930d393f-48e7-44bb-8f78-ba68349a7c3e&width=768&dpr=3&quality=100&sign=89f142553c1b16fb3d99c8498f5e962b&sv=3" alt=""><figcaption><p>PTAのセットアップ</p></figcaption></figure>
+<figure><img src="../images/setup-pta-ja.png" alt=""><figcaption><p>PTAのセットアップ</p></figcaption></figure>
 
 上図のオレンジの箇所に、PTAのデータが不足しているという警告が表示されています。
 
