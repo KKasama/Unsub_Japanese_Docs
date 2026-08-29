@@ -12,7 +12,7 @@
 
 方法は以下の通りです。
 
-まずPTAを設定したいパッケージに移動します。Setupタブをクリックし、PTAの箇所までスクロールします。
+まずPTAを設定したいパッケージに移動します。セットアップタブをクリックし、PTAの箇所までスクロールします。
 
 <figure><img src="../images/setup-pta-ja.png" alt=""><figcaption><p>PTAのセットアップ</p></figcaption></figure>
 
@@ -29,19 +29,17 @@ ISSN、Start Date、End Dateの3つのカラムのみで構成されたシンプ
 
 <figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FEzNuIDspD4tn1v1YlWps%252Fsetup-pta-example-pta-file.png%3Falt%3Dmedia%26token%3D1192b9a6-fe65-49ad-a63f-097ae15f8b84&width=768&dpr=3&quality=100&sign=f7a1c06cf3b54935f82a6dd2ef84fc66&sv=3" alt=""><figcaption></figcaption></figure>
 
-To upload your file, click the Paperclip, then find your file and select it, then click the Upload arrow. You'll wait a minute or two while Unsub starts to upload and process the file. Then when it's done, you'll see something like this:
-
 アップロードの際は、クリップのアイコンをクリックして該当ファイルを選択し、アップロードの矢印をクリックします。処理にはおよそ1～2分を要し、アップロードが完了すると下図のような画面が表示されます。
 
 <figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FurVO2psTBmOWtTrzwdBF%252Fsetup-pta-success.png%3Falt%3Dmedia%26token%3D1c90acd3-4f81-4970-9b9b-9816f8415262&width=768&dpr=3&quality=100&sign=0b800431af391290f19bca8b7d88fddf&sv=3" alt=""><figcaption><p>PTAファイルのアップロードに成功した例</p></figcaption></figure>
 
-Your PTA fileのセクションを見ると「カスタム日付範囲を使用しているジャーナルが373件あります」と表示されています。右端のダウンロード矢印をクリックすると、そのジャーナルの一覧と設定された日付範囲を確認することができます。&#x20;
+PTAファイルのセクションを見ると「カスタム日付範囲を使用しているジャーナルが373件あります」と表示されています。右端のダウンロード矢印をクリックすると、そのジャーナルの一覧と設定された日付範囲を確認することができます。&#x20;
 
 このデータを後で別のものと差し替えたい場合は、右側にあるゴミ箱をクリックして新しいファイルをアップロードしてください。シナリオ予測は自動的に新しいデータが適用されて再算出されます。
 
 ### UnsubのPTAに関するいくつかの注意点
 
-* Unsub forecasts only use PTA back to 2012. PTAは2012年までのものに対応しています。PTA開始日が2012年より前のものは編集する必要はありませんが、開始日が自動的に2012年に変換されますのでご注意ください。
+* PTAは2012年までのものに対応しています。PTA開始日が2012年より前のものは編集する必要はありませんが、開始日が自動的に2012年に変換されますのでご注意ください。
 * PTAの終了日が現在進行中（空白）または今年よりも先の年である場合、終了日は現在の年から1を引いた値に設定されます。例えば、あるタイトルの PTA 終了日が空白、2022年もしくは2023年以降に設定されている場合、当該タイトルのPTA終了日は2021年と表示されます。
 
 &#x20;

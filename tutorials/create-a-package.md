@@ -16,11 +16,11 @@
 
 <figure><img src="../images/account-page-ja.png" alt=""><figcaption><p>ご所属の教育機関をクリックしてください。</p></figcaption></figure>
 
-まだパッケージが作成されていない場合は、下のボタンが表示されます。最初のパッケージを作成するには、「+ **New package**」をクリックします。
+まだパッケージが作成されていない場合は、下のボタンが表示されます。最初のパッケージを作成するには、「+ **新規パッケージ**」をクリックします。
 
 <figure><img src="../images/institution-packages-ja.png" alt=""><figcaption><p>「+ 新規パッケージ」をクリックします。</p></figcaption></figure>
 
-**Add subscription package**というタイトルのポップアップウィンドウが表示されます。
+**購読パッケージを追加**というタイトルのポップアップウィンドウが表示されます。
 
 <figure><img src="../images/add-package-popup-ja.png" alt=""><figcaption><p>購読パッケージの追加を行います。</p></figcaption></figure>
 
@@ -154,17 +154,17 @@ PTAの項目とオプションデータ（Filter）の下に灰色の選択で�
 COUNTER準拠利用統計のアップロードの詳細については、[こちら](#21-counterno)をご参照ください。
 
 > **ℹ️ 情報：**
-> 他のタブ(Pricelist, Currency, Big Deal Costs)の項目も、COUNTERデータがアップロードされている間に入力することができます。
+> 他のタブ（価格リスト、通貨、ビッグディールコスト）の項目も、COUNTERデータがアップロードされている間に入力することができます。
 
 ### 2.2 タイトル価格
 
-次に、左側の「Pricelist」をクリックすると下図のような画面になります。
+次に、左側の「価格リスト」をクリックすると下図のような画面になります。
 
 <figure><img src="../images/setup-pricelist-ja.png" alt=""><figcaption><p>タイトル価格のセットアップ</p></figcaption></figure>
 
 赤い警告は、価格情報がないジャーナルの数を表示しています。またタイトル価格情報のないジャーナルをリストアップしたファイルをダウンロードすることができます。&#x20;
 
-パッケージ作成の初期段階ではすべてのタイトル価格がそろっていないこともあるかと思いますが、意図せず漏れているタイトルがある場合はVIEW MISSING TITLESのボタンを押下してください。漏れているタイトルのISSN、タイトル、COUNTERデータの概算が記載されたスプレッドシートがダウンロードされますので、今後重要となる価格情報がUnsubにきちんと反映されているかどうかを確認することができます。
+パッケージ作成の初期段階ではすべてのタイトル価格がそろっていないこともあるかと思いますが、意図せず漏れているタイトルがある場合は「欠落タイトルを表示」のボタンを押下してください。漏れているタイトルのISSN、タイトル、COUNTERデータの概算が記載されたスプレッドシートがダウンロードされますので、今後重要となる価格情報がUnsubにきちんと反映されているかどうかを確認することができます。
 
 この漏れているタイトルのリストを出版社/アグリゲーターの営業担当者に確認し、個々のタイトル/アラカルトの価格を確認してください。
 
@@ -174,7 +174,7 @@ COUNTER準拠利用統計のアップロードの詳細については、[こち
 
 ### 2.3 通貨
 
-次に、画面左側の「Currency」タブを開きます。クリックすると下図のように表示されます。
+次に、画面左側の「通貨」タブを開きます。クリックすると下図のように表示されます。
 
 <figure><img src="../images/setup-currency-ja.png" alt=""><figcaption><p>通貨のセットアップ</p></figcaption></figure>
 
@@ -184,9 +184,9 @@ USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれか�
 
 通貨設定の詳細については、[こちら](/unsub_guide_jpn/gogaido/no.md)を参照してください。
 
-### 2.4 Big Deal costs
+### 2.4 ビッグディールコスト
 
-画面左側の「Big Deal Costs」をクリックすると、下図のように表示されます。
+画面左側の「ビッグディールコスト」をクリックすると、下図のように表示されます。
 
 <figure><img src="../images/setup-bigdeal-ja.png" alt=""><figcaption><p>ビッグディールコストのセットアップ</p></figcaption></figure>
 
@@ -194,9 +194,9 @@ USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれか�
 
 詳細については、[こちら](/unsub_guide_jpn/gogaido/biggudrupakkjino.md)をご確認ください。
 
-### 2.5 Perpetual access永続的なアクセス権
+### 2.5 PTA（購読終了後アクセス権）
 
-この時点で、4つの必須データセクション(COUNTER, Pricelist, Currency, Big Deal Costs)が入力された状態です。この状態でもそのまま[シナリオを作成](/unsub_guide_jpn/chtoriaru/shinariono.md)することはできますが、ここではより正確な推測をするためのオプション入力項目について説明します。この項目は、後から設定することも可能です。
+この時点で、4つの必須データセクション（COUNTER、価格リスト、通貨、ビッグディールコスト）が入力された状態です。この状態でもそのまま[シナリオを作成](/unsub_guide_jpn/chtoriaru/shinariono.md)することはできますが、ここではより正確な推測をするためのオプション入力項目について説明します。この項目は、後から設定することも可能です。
 
 &#x20;画面左側のPTAをクリックすると、下図のように表示されます。
 
@@ -205,8 +205,6 @@ USD（米ドル）、GBP（英ポンド）、JPY（日本円）のいずれか�
 オレンジの警告は、PTA(Post Termination Access)データのアップロードを推奨しているものです。
 
 もしこの時点でPTAのデータをお持ちでない場合、[PTAデータの収集](/unsub_guide_jpn/gogaido/akusesuptanoarudta.md)と[データのフォーマット](/unsub_guide_jpn/gogaido/ptaakusesunoappurdo.md)方法に関するヒントをご覧ください。
-
-Once you have your PTA file upload it by navigating to the file on your computer, then press the up arrow to the right.&#x20;
 
 PTAファイルの準備が出来たら、デバイス上でそのファイルを選択、画面右側にある上向きの矢印を押下してファイルをアップロードしてください。 PTAファイルのフォーマットとPTAデータのアップロード方法については、[こちら](/unsub_guide_jpn/gogaido/ptaakusesunoappurdo.md)を参照してください。
 
