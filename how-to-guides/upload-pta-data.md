@@ -27,11 +27,11 @@ ISSN、Start Date、End Dateの3つのカラムのみで構成されたシンプ
 
 以下はその例です。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FEzNuIDspD4tn1v1YlWps%252Fsetup-pta-example-pta-file.png%3Falt%3Dmedia%26token%3D1192b9a6-fe65-49ad-a63f-097ae15f8b84&width=768&dpr=3&quality=100&sign=f7a1c06cf3b54935f82a6dd2ef84fc66&sv=3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/setup-pta-example-ja.png" alt=""><figcaption></figcaption></figure>
 
 アップロードの際は、クリップのアイコンをクリックして該当ファイルを選択し、アップロードの矢印をクリックします。処理にはおよそ1～2分を要し、アップロードが完了すると下図のような画面が表示されます。
 
-<figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FurVO2psTBmOWtTrzwdBF%252Fsetup-pta-success.png%3Falt%3Dmedia%26token%3D1c90acd3-4f81-4970-9b9b-9816f8415262&width=768&dpr=3&quality=100&sign=0b800431af391290f19bca8b7d88fddf&sv=3" alt=""><figcaption><p>PTAファイルのアップロードに成功した例</p></figcaption></figure>
+<figure><img src="../images/setup-pta-success-ja.png" alt=""><figcaption><p>PTAファイルのアップロードに成功した例</p></figcaption></figure>
 
 PTAファイルのセクションを見ると「カスタム日付範囲を使用しているジャーナルが373件あります」と表示されています。右端のダウンロード矢印をクリックすると、そのジャーナルの一覧と設定された日付範囲を確認することができます。&#x20;
 
