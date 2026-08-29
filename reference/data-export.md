@@ -7,11 +7,11 @@
 
 **issn\_l\_prefixed**
 
-ジャーナルで使用しているプライマリISSN（issn.orgリンクISSN）の先頭に "issn: "を付けたもの。
+ジャーナルで使用しているプライマリISSN（issn.org [リンクISSN](https://www.issn.org/understanding-the-issn/assignment-rules/the-issn-l-for-publications-on-multiple-media/)）の先頭に "issn: "を付けたもの。
 
 **issn\_l**
 
-ジャーナルで使用しているプライマリISSN（issn.org リンクISSNをご参照ください。）
+ジャーナルで使用しているプライマリISSN（issn.org [リンクISSN](https://www.issn.org/understanding-the-issn/assignment-rules/the-issn-l-for-publications-on-multiple-media/)をご参照ください。）
 
 **title**
 
@@ -38,7 +38,7 @@ OpenAlexの上位3コンセプト。ジャーナルとコンセプトの関連�
 
 **subjects\_all**
 
-OpenAlexのレベル0の全コンセプトとそのIDをJSON配列にしたものです。この ID を使って各コンセプトの詳細情報を<https://openalex.orgに追加すると、調べることができます> (例: <https://openalex.org/C185592680)詳しくは[OpenAlexのドキュメント>]\(<https://docs.openalex.org/about-the-data/venue#x_concepts)をご覧ください。>
+OpenAlexのレベル0の全コンセプトとそのIDをJSON配列にしたものです。このIDを使って各コンセプトの詳細情報を [https://openalex.org](https://openalex.org) で調べることができます（例: [https://openalex.org/C185592680](https://openalex.org/C185592680)）。詳しくは[OpenAlexのドキュメント](https://docs.openalex.org/about-the-data/venue#x_concepts)をご覧ください。
 
 ### Summary <a href="#summary" id="summary"></a>
 
@@ -66,11 +66,11 @@ OpenAlexのレベル0の全コンセプトとそのIDをJSON配列にしたも�
 
 **cpu**
 
-ジャーナルの利用単価。Unsubではより高度なCPUを使用しています（社内では、これをNet Per Paid Use、またはNCPPUと呼んでいます）。このCPU計算は、Net Cost（購読料からILLを差し引いたもの）をPaid Use（無料ソースで満たせない利用）で割ったものです。これは、購読料に見合う本当の価値を測定したもので、ジャーナルの価値に関する私たちの最も重要な尺度です。詳しくは[こちらの記事](/unsub_guide_jpn/unsubnoshikumi/taitorugotonohadonoyounisurunodesuka.md)をご覧ください。
+ジャーナルの利用単価。Unsubではより高度なCPUを使用しています（社内では、これをNet Per Paid Use、またはNCPPUと呼んでいます）。このCPU計算は、Net Cost（購読料からILLを差し引いたもの）をPaid Use（無料ソースで満たせない利用）で割ったものです。これは、購読料に見合う本当の価値を測定したもので、ジャーナルの価値に関する私たちの最も重要な尺度です。詳しくは[こちらの記事](how-it-works/subscription-costs.md)をご覧ください。
 
 **cpu\_rank**
 
-データセットに含まれる他のジャーナルと比較した、CPUに応じたジャーナルのランク。費用対効果の高いジャーナルのランクが上位になります。<br>
+データセットに含まれる他のジャーナルと比較した、CPUに応じたジャーナルのランク。利用単価の低いジャーナルのランクが上位になります。<br>
 
 **cost**
 
@@ -90,11 +90,11 @@ OpenAlexのレベル0の全コンセプトとそのIDをJSON配列にしたも�
 
 **subscription\_cost**
 
-ジャーナルタイトルごとの購読料。パラメータ設定による「コンテンツフィー」と、今後5年間の毎年の値上げ分が加味されています。（表示されている金額は、今後5年間の平均費用です）価格をアップロードしていない場合、出版社が公開している価格表の数字が表示されます。詳しくは[こちらの記事](/unsub_guide_jpn/unsubnoshikumi/taitorugotonohadonoyounisurunodesuka.md)をご覧ください。
+ジャーナルタイトルごとの購読料。パラメータ設定による「コンテンツフィー」と、今後5年間の毎年の値上げ分が加味されています。（表示されている金額は、今後5年間の平均費用です）価格をアップロードしていない場合、出版社が公開している価格表の数字が表示されます。詳しくは[こちらの記事](how-it-works/subscription-costs.md)をご覧ください。
 
 **ill\_cost**
 
-ジャーナルのILL費用。ILLトランザクションコストとお客様のILLリクエスト率による数値で、いずれも調整可能なパラメータです。詳しくは[こちらの記事](/unsub_guide_jpn/unsubnoshikumi/illrikuesutotoillkosutohadonoyounisurunodesuka.md)をご覧ください。
+ジャーナルのILL費用。ILLトランザクションコストとお客様のILLリクエスト率による数値で、いずれも調整可能なパラメータです。詳しくは[こちらの記事](how-it-works/ill-costs.md)をご覧ください。
 
 **subscription\_minus\_ill\_cost**
 
@@ -117,7 +117,7 @@ PTA (Post-Termination Access：契約満了後アクセス権)により賄われ
 
 **use\_ill\_percent**
 
-ILL経由で賄われる利用の割合。Turnaway（オープンアクセス、PTA、またはタイトルごとの購読によって満たされない使用）にILLリクエスト率パラメータを掛けたものです。詳しくは[こちらの記事](/unsub_guide_jpn/unsubnoshikumi/illrikuesutotoillkosutohadonoyounisurunodesuka.md)をご覧ください。
+ILL経由で賄われる利用の割合。Turnaway（オープンアクセス、PTA、またはタイトルごとの購読によって満たされない使用）にILLリクエスト率パラメータを掛けたものです。詳しくは[こちらの記事](how-it-works/ill-costs.md)をご覧ください。
 
 **use\_other\_delayed\_percent**
 

@@ -14,7 +14,7 @@
 
 <figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FGmBY2vBmmu4ZqQw1QYZV%252Fsingle-journal-view-zoomed.png%3Falt%3Dmedia%26token%3D6c8bd7d3-3e47-4253-ae62-cd1559d6e5f2&width=768&dpr=3&quality=100&sign=ef42e48ca9c675ff7e257f59380581c9&sv=3" alt=""><figcaption></figcaption></figure>
 
-個別タイトルの詳細画面で、ジャーナルのメタデータと[Cost Per Use](/unsub_guide_jpn/refarensu/li-yong-jinecost-per-use.md)の計算の内訳が表示され、購読の設定/解除ができます。
+個別タイトルの詳細画面で、ジャーナルのメタデータと[利用単価（Cost per Use）](reference/cost-per-use.md)の計算の内訳が表示され、購読の設定/解除ができます。
 
 ### Overviewタブ
 
@@ -44,18 +44,18 @@ Overviewタブには、ジャーナルメタデータ、年間利用統計、コ
 * Citations: お客様機関のメンバーが発表した論文上で、当該ジャーナルからの推定引用数
 * Authorships: 当該ジャーナルへの、お客様機関メンバーからの推定投稿数
 
-無料での論文利用を含めてしまうと正確なCost per Useが出ないので、Paywalled uses(実際にお金をかけて利用されている回数)を算出します。これを求めるには、Weighted overall usesから下記の項目を差し引きます。
+無料での論文利用を含めてしまうと正確な利用単価が出ないので、Paywalled uses(実際にお金をかけて利用されている回数)を算出します。これを求めるには、Weighted overall usesから下記の項目を差し引きます。
 
 * Open access usage: オープンアクセスコンテンツの推定利用数
 * PTA/Backfile usage: PTAおよびバックファイルの推定利用数
 
 #### Annual cost
 
-ジャーナルの個別購読にかかるコストは単純ではありません。Unsubでは、もし購読しなかった場合に発生するILLの費用も考慮します。そのコストであるNet subscription cost&#x306F;**、**&#x57FA;本購読料とILLの見込みコストの差額となります。
+ジャーナルの個別購読にかかるコストは単純ではありません。Unsubでは、もし購読しなかった場合に発生する[ILLの費用](how-it-works/ill-costs.md)も考慮します。そのコストであるNet subscription costは、[基本購読料](how-it-works/subscription-costs.md)とILLの見込みコストの差額となります。
 
-#### Cost Per Use
+#### 利用単価（Cost per Use）
 
-Cost Per Useは、Net subscription costをPaywalled usesの数で割った額となります。
+利用単価は、Net subscription costをPaywalled usesの数で割った額となります。
 
 ### Timelinesタブ
 

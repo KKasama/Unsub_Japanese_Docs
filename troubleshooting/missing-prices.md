@@ -8,7 +8,7 @@
 
 <figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FBLRJ8hD6csIvgb2kzdp2%252Fmissing-prices.png%3Falt%3Dmedia%26token%3Ddfd46438-67eb-4aac-8c1b-783e629dbbe2&width=768&dpr=3&quality=100&sign=ce583e78d9c2133aebc5db704d09959e&sv=3" alt=""><figcaption></figcaption></figure>
 
-このメッセージは、Unsubが価格を認識していない個別タイトルがCOUNTERファイルでアップロードされると表示されます。個別タイトルの価格情報が欠落していると、タイトル毎の費用対効果を計算することができません。
+このメッセージは、Unsubが価格を認識していない個別タイトルがCOUNTERファイルでアップロードされると表示されます。個別タイトルの価格情報が欠落していると、タイトル毎の利用単価を計算することができません。
 
 Unsubダッシュボード上では、価格情報のないジャーナルは除外されて表示されます。お客様にとって重要なタイトルを見落としてしまっている可能性を考えると、Unsubをご利用いただく価値が下がってしまいます。営業担当に、価格情報が欠落しているジャーナルの個別価格を確認してください。
 
