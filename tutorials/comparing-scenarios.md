@@ -23,7 +23,7 @@ Unsubでは、パッケージ内に作れるシナリオの数は無制限です
 
 <figure><img src="../images/parameters-no-details-ja.png" alt=""><figcaption><p>パラメータタブ</p></figcaption></figure>
 
-ここでは、フルフィルメントソースのパラメータの1つ **Include Bronze OA**を変更します。
+ここでは、アクセス充足のパラメータの1つ **Include Bronze OA**を変更します。
 
 初期設定では、Include Bronze OAはtrueです。このパラメータをクリックして、青いボタンをクリックしfalseに変割ったのを確認したのちにSaveをクリックします。
 
