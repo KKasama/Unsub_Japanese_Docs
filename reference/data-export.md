@@ -117,7 +117,7 @@ PTA (Post-Termination Access：契約満了後アクセス権)により賄われ
 
 **use\_ill\_percent**
 
-ILL経由で賄われる利用の割合。Turnaway（オープンアクセス、PTA、またはタイトルごとの購読によって満たされない使用）にILLリクエスト率パラメータを掛けたものです。詳しくは[こちらの記事](how-it-works/ill-costs.md)をご覧ください。
+ILL経由で賄われる利用の割合。Turnaways（アクセス未充足：オープンアクセス、PTA、またはタイトルごとの購読によって満たされない使用）にILLリクエスト率パラメータを掛けたものです。詳しくは[こちらの記事](how-it-works/ill-costs.md)をご覧ください。
 
 **use\_other\_delayed\_percent**
 
