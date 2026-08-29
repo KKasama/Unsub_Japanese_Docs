@@ -35,7 +35,7 @@
   * [シナリオ](reference/scenarios/README.md)
     * [概要](reference/scenarios/high-level-overview.md)
     * [シナリオパラメータ](reference/scenarios/scenario-parameters.md)
-  * [利用金額（Cost Per Use）](reference/cost-per-use.md)
+  * [利用単価（Cost per Use）](reference/cost-per-use.md)
   * [データのエクスポート](reference/data-export.md)
   * [ターンアウェイ](reference/turnaways.md)
   * [ROR — 研究機関の個別ID](reference/ror-id.md)

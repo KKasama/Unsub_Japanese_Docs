@@ -1,5 +1,5 @@
 
-# 利用金額(Cost Per Use)
+# 利用単価（Cost per Use）
 
 Unsubでは、ジャーナル購読の費用対効果をCost Per Use、いちどのジャーナルダウンロードにかかる金額をもとに評価しています。
 
