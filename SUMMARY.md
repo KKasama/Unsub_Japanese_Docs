@@ -18,7 +18,7 @@
   * [ビッグディール（パッケージ価格）の設定](how-to-guides/set-big-deal-costs.md)
   * [PTA（購読終了後のアクセス権）情報のアップロード](how-to-guides/upload-pta-data.md)
   * [ジャーナルフィルターの追加](how-to-guides/upload-journal-filter.md)
-  * [タイトル価格のアップロード](how-to-guides/upload-title-prices.md)
+  * [個別ジャーナル価格リスト](how-to-guides/upload-title-prices.md)
   * [ミニバンドルの価格](how-to-guides/mini-bundle-prices.md)
   * [新しいシナリオの追加](how-to-guides/create-scenario.md)
   * [シナリオの複製](how-to-guides/copy-scenario.md)
