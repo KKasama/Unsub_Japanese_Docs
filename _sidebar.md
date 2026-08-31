@@ -20,7 +20,7 @@
   * [ミニバンドルの価格](how-to-guides/mini-bundle-prices.md)
   * [新しいシナリオの追加](how-to-guides/create-scenario.md)
   * [シナリオの複製](how-to-guides/copy-scenario.md)
-  * [タイトル毎の価格情報を準備する](how-to-guides/prepare-title-prices.md)
+  * [タイトル毎の価格情報の準備](how-to-guides/prepare-title-prices.md)
   * [購読終了後のアクセス権（PTA）のあるデータ](how-to-guides/post-termination-access-data.md)
   * [ジャーナルの選択](how-to-guides/select-journals.md)
   * [まとめて購読/非購読設定](how-to-guides/batch-subscribe.md)
