@@ -7,9 +7,7 @@ Unsubは2019年11月に発売されたばかりにもかかわらず、すでに
 
 カナダの大学コンソーシアムであるCRKNは、その購読を公に発表しています。
 
-A number of other users have discussed their use of Unsub in various articles ([Science](https://www.sciencemag.org/news/2020/07/tool-saving-universities-millions-dollars-journal-subscriptions)) and panels (SPARC, [NISO](https://www.niso.org/events/2020/07/no-more-big-deal-picking-and-choosing-titles-use)), including Wesleyan and Iowa State.
-
-WesleyanやIowa Stateなど、他の多くのユーザーがUnsubの使用について様々な記事（Science）やパネル（SPARC、NISO）で説明しています。
+WesleyanやIowa Stateなど、他の多くのユーザーがUnsubの使用について様々な記事（[Science](https://www.sciencemag.org/news/2020/07/tool-saving-universities-millions-dollars-journal-subscriptions)）やパネル（SPARC、[NISO](https://www.niso.org/events/2020/07/no-more-big-deal-picking-and-choosing-titles-use)）で説明しています。
 
 MITは最近Elsevierの契約を解除しました。その直後、図書館長Chris Bourgが以下の通りツイートしています。
 
