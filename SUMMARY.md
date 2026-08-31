@@ -42,7 +42,7 @@
   * [個別ジャーナルの閲覧](reference/single-journal-view.md)
   * [外部データソースについて](reference/data-sources.md)
 * [Unsubのしくみ](how-it-works/README.md)
-  * [OA Publishの利用料金はどのように計算されますか？](how-it-works/oa-publish-costs.md)
+  * [OA出版の料金はどのように計算されますか？](how-it-works/oa-publish-costs.md)
   * [ILLリクエストとILLコストはどのように計算するのですか？](how-it-works/ill-costs.md)
   * [タイトルごとの購読料はどのように計算するのですか？](how-it-works/subscription-costs.md)
   * [PTAやオープンアクセスの計算に使う出版年のデータはどこから入手しているのでしょうか？](how-it-works/publication-dates.md)
