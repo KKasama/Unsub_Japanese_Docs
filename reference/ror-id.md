@@ -1,5 +1,5 @@
 
-# ROR- 研究機関の個別ID
+# ROR — 研究機関の永続識別子
 
 ROR(Research Organization Registry)は、ISSNやDOIのような、研究機関のための独立した個別IDです。
 

@@ -38,7 +38,7 @@
   * [利用単価（Cost per Use）](reference/cost-per-use.md)
   * [データのエクスポート](reference/data-export.md)
   * [Turnaways（アクセス未充足）](reference/turnaways.md)
-  * [ROR — 研究機関の個別ID](reference/ror-id.md)
+  * [ROR — 研究機関の永続識別子](reference/ror-id.md)
   * [個別ジャーナルの閲覧](reference/single-journal-view.md)
   * [外部データソースについて](reference/data-sources.md)
 * [Unsubのしくみ](how-it-works/README.md)
