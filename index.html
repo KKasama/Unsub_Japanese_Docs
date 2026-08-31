@@ -16,6 +16,35 @@
       --sidebar-nav-link-color--active: #1a73e8;
       --sidebar-name-font-weight: bold;
     }
+
+    /* Hide sidebar-collapse plugin's left-side arrow */
+    .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
+      display: none !important;
+    }
+
+    /* Right-side arrow for folder items */
+    .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file) > a {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file) > a::after {
+      content: '';
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-right: 1.5px solid #9ca3af;
+      border-bottom: 1.5px solid #9ca3af;
+      transform: rotate(-45deg);
+      flex-shrink: 0;
+      margin-left: 8px;
+      transition: transform 0.15s ease;
+    }
+    .sidebar-nav ul:not(.app-sub-sidebar) > li.open > a::after,
+    .sidebar-nav ul:not(.app-sub-sidebar) > li.active > a::after {
+      transform: rotate(45deg);
+      border-color: var(--theme-color);
+    }
   </style>
 </head>
 <body>
