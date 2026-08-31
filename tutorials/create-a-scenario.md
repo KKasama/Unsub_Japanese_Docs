@@ -5,9 +5,9 @@
 
 
 > **⚠️ 注意：**
-> パッケージの作成がまだお済みでない場合は、[こちら](/unsub_guide_jpn/chtoriaru/pakkjino.md)から作成をお願いいたします。
+> パッケージの作成がまだお済みでない場合は、[こちら](/tutorials/create-a-package.md)から作成をお願いいたします。
 
-このチュートリアルでは、Unsubで[シナリオ](/unsub_guide_jpn/refarensu/shinario.md)を作成する一連の手順と、それを使って作業行う方法を説明します。
+このチュートリアルでは、Unsubで[シナリオ](/reference/scenarios/README.md)を作成する一連の手順と、それを使って作業行う方法を説明します。
 
 パッケージの作成チュートリアルで作成したパッケージ（またはアカウント内の他のパッケージ）をクリックすると、次のような画面が表示されます。
 
@@ -27,9 +27,9 @@
 
 <figure><img src="../images/scenario-dashboard-ja.png" alt=""><figcaption><p>作成されたシナリオのダッシュボード画面</p></figcaption></figure>
 
-シナリオの追加については、[こちら](/unsub_guide_jpn/gogaido/shiishinariowosuru.md)もご覧ください。
+シナリオの追加については、[こちら](/how-to-guides/create-scenario.md)もご覧ください。
 
-Unsubシナリオの詳細については、[こちら](/unsub_guide_jpn/refarensu/shinario.md)をご覧ください。
+Unsubシナリオの詳細については、[こちら](/reference/scenarios/README.md)をご覧ください。
 
 ---
 

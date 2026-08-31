@@ -5,7 +5,7 @@ Unsubでは多くのパラメータを準備しており、その多くはユー
 
 COUNTER 5は、TR\_J2ファイル（"Journal Access Denied"）にTurnawaysデータが記載されています。
 
-TR\_J2ファイルには、[こちら](/unsub_guide_jpn/yokuaru/notaitorugasarenainohanazedesuka.md)で説明されている例外に該当しない限り、No\_Licenseという指標を持つすべてのタイトルが含まれます。
+TR\_J2ファイルには、[こちら](/troubleshooting/missing-title.md)で説明されている例外に該当しない限り、No\_Licenseという指標を持つすべてのタイトルが含まれます。
 
 上記のタイトルは、論文のフルテキストにアクセスしようとした際に抄録にリダイレクトされたケースであるという理由で含まれています。
 

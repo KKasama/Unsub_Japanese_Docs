@@ -1,7 +1,7 @@
 
 # タイトル毎の価格情報を準備する
 
-Unsubダッシュボード上に各ジャーナルタイトルを表示させるには、[タイトルの価格が必要](/unsub_guide_jpn/yokuaru/notaitorugasarenainohanazedesuka.md)です。
+Unsubダッシュボード上に各ジャーナルタイトルを表示させるには、[タイトルの価格が必要](/troubleshooting/missing-title.md)です。
 
 以前5つの大手出版社（Elsevier, Wiley, Springer Nature, SAGE, Taylor & Francis）のみの対応だった時期は、お客様の作業を減らす目的でタイトル価格を提供していましたが、現在はすべての出版社に対応している状況ですので、タイトル価格はお客様の手で入手いただくことをお願いしております。
 

@@ -5,7 +5,7 @@
 
 
 > **ℹ️ 情報：**
-> ジャーナルタイトルの検索、選択については[こちらの記事](/unsub_guide_jpn/gogaido/jnaruno.md)をご覧ください。
+> ジャーナルタイトルの検索、選択については[こちらの記事](/how-to-guides/select-journals.md)をご覧ください。
 
 タイトルごとの購読シミュレーションについては[チュートリアル](tutorials/subscribing-titles.md)で説明しましたが、これは利用単価の低いタイトルを順に選んだひとつの購読モデルです。
 

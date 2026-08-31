@@ -27,7 +27,7 @@
 
 アップデート頻度: 毎日
 
-利用目的: 個々のジャーナルをダッシュボードに掲載させるかどうかの判断基準として（詳細については[こちらの記事](/unsub_guide_jpn/yokuaru/notaitorugasarenainohanazedesuka.md)をご確認ください）、またジャーナル関連の情報とユーザがアップロードしたデータを一致させるための証拠ソースとして。
+利用目的: 個々のジャーナルをダッシュボードに掲載させるかどうかの判断基準として（詳細については[こちらの記事](/troubleshooting/missing-title.md)をご確認ください）、またジャーナル関連の情報とユーザがアップロードしたデータを一致させるための証拠ソースとして。
 
 ### エンバーゴ期間に関するデータ
 
@@ -63,7 +63,7 @@
 
 ### APCの価格に関する情報
 
-情報元:[ 出版社のウェブサイト](/unsub_guide_jpn/unsubnoshikumi/apcnohadokokarashiteirunoedeshouka.md)から取得
+情報元:[ 出版社のウェブサイト](/how-it-works/apc-prices.md)から取得
 
 アップデート頻度: Unsub側では更新しません。
 

@@ -10,7 +10,7 @@
 2. **価格なし:** ジャーナルの単体価格をアップロードしていない場合、価格は不明です。全体の予測モデルに与える影響を考慮し、価格情報のないジャーナルは予測対象から除かれます。
 
 > **ℹ️ 情報：**
-> 公示価格について: 現在Unsubでは各ジャーナルの単体価格を公開していませんので、[タイトル価格取得のページ](/unsub_guide_jpn/gogaido/taitorunowosuru.md)を参照してください。
+> 公示価格について: 現在Unsubでは各ジャーナルの単体価格を公開していませんので、[タイトル価格取得のページ](/how-to-guides/prepare-title-prices.md)を参照してください。
 
 各ジャーナルの価格データの出所は、お客様の機関Unsubページでパッケージをクリックし、セットアップタブから「価格リスト」のセクションをクリックすることで確認できます。
 
@@ -49,4 +49,4 @@
 ![](https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FIMv066FkNfvtzqw0FfSF%252Fprices-setup-with-counter-withcompletecustom.png%3Falt%3Dmedia%26token%3D663f661e-e566-4c3b-83a5-c2ec3f7abd4f&width=768&dpr=3&quality=100&sign=088cde5d6074385610142c5ef1f62f05&sv=3)
 
 > **ℹ️ 情報：**
-> Unsubはジャーナル単位の価格設定にのみ対応しています。ミニバンドル価格への対応については、[こちら](/unsub_guide_jpn/gogaido/minibandoruno.md)をご覧ください。
+> Unsubはジャーナル単位の価格設定にのみ対応しています。ミニバンドル価格への対応については、[こちら](/how-to-guides/mini-bundle-prices.md)をご覧ください。

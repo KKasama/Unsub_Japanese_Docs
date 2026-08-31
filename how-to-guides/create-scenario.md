@@ -10,4 +10,4 @@
 
 <figure><img src="../images/scenario-list-ja.png" alt=""><figcaption><p>シナリオ一覧画面。下部の「+新規シナリオ」をクリックします。</p></figcaption></figure>
 
-すでにシナリオがひとつ作成されている場合は、[シナリオのコピー](/unsub_guide_jpn/gogaido/shinariowosuru.md)をすることをお勧めします。
+すでにシナリオがひとつ作成されている場合は、[シナリオのコピー](/how-to-guides/copy-scenario.md)をすることをお勧めします。

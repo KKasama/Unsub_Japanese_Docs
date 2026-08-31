@@ -7,13 +7,13 @@
 
 セットアップの段階を済ませた方には、製品からより深い価値を得るためのチュートリアルを用意しています。
 
-* [Unsubへのログイン](/unsub_guide_jpn/chtoriaru/roguin.md)
-* [パッケージの作成](/unsub_guide_jpn/chtoriaru/pakkjino.md)
-* [シナリオの作成](/unsub_guide_jpn/chtoriaru/shinariono.md)
-* [タイトルの購読](/unsub_guide_jpn/chtoriaru/taitoruno.md)
-* [パラメーター設定](/unsub_guide_jpn/chtoriaru/paramt.md)
-* [シナリオ同士の比較](/unsub_guide_jpn/chtoriaru/shinariono-1.md)
-* [コンソーシアダッシュボード](/unsub_guide_jpn/chtoriaru/konsshiadasshubdo.md)
+* [Unsubへのログイン](/tutorials/logging-in.md)
+* [パッケージの作成](/tutorials/create-a-package.md)
+* [シナリオの作成](/tutorials/create-a-scenario.md)
+* [タイトルの購読](/tutorials/subscribing-titles.md)
+* [パラメーター設定](/tutorials/setting-parameters.md)
+* [シナリオ同士の比較](/tutorials/comparing-scenarios.md)
+* [コンソーシアダッシュボード](/tutorials/consortial-dashboard.md)
 
 下にログインからセットアップまでのビデオを準備しております。
 

@@ -5,7 +5,7 @@
 
 
 > **⚠️ 注意：**
-> シナリオの作成がまだお済でない場合は、[こちら](/unsub_guide_jpn/chtoriaru/shinariono.md)から作成をお願いいたします。
+> シナリオの作成がまだお済でない場合は、[こちら](/tutorials/create-a-scenario.md)から作成をお願いいたします。
 
 Parameterのタブをクリックすると、9つのパラメータとその詳細についてのページが表示されます。
 
@@ -49,7 +49,7 @@ Parametersタブを見ると、Include Bronze OAはこのように表示され�
 
 上の2つの画像を比較すると、コストが変化していることがわかりま&#x3059;**。**&#x42;ronze OAを含めない場合ILLのコストが高くなり、論文のリクエストを満たすために資金が必要になってきます。アクセスの内訳も変化しています。全体でオープンアクセスが占める割合は、Bronze OAを含めると35%なのに対し、含めない場合は30%に低下しています。
 
-各シナリオパラメータの説明については、[シナリオパラメータ](/unsub_guide_jpn/refarensu/shinario/shinarionoparamta.md)の記事をご覧ください。
+各シナリオパラメータの説明については、[シナリオパラメータ](/reference/scenarios/scenario-parameters.md)の記事をご覧ください。
 
 ---
 
