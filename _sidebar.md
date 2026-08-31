@@ -25,7 +25,7 @@
   * [ジャーナルの選択](how-to-guides/select-journals.md)
   * [まとめて購読/非購読設定](how-to-guides/batch-subscribe.md)
   * [APC（Article Processing Cost）レポート](how-to-guides/apc-report.md)
-  * [除外されたタイトルレポート](how-to-guides/excluded-titles-report.md)
+  * [除外タイトルレポート](how-to-guides/excluded-titles-report.md)
 * [レファレンス](reference/README.md)
   * [価格](reference/pricing/README.md)
     * [購読価格](reference/subscription-costs.md)
