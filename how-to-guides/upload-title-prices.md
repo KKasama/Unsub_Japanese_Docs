@@ -34,7 +34,7 @@
 <figure><img src="https://docs.unsub.org/~gitbook/image?url=https%3A%2F%2F2329511114-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeIwtiPevlQYuy1bQ4x85%252Fuploads%252FjWYr4tXwXNGFQVOpgIUu%252FScreen%2520Shot%25202022-10-19%2520at%25209.44.07%2520AM.png%3Falt%3Dmedia%26token%3D1db4377b-d165-4d78-9a72-e32791454d43&width=768&dpr=3&quality=100&sign=71846101dd772a71ef5dde0305cbd12b&sv=3" alt=""><figcaption><p>価格リストのファイル作成例</p></figcaption></figure>
 
 > **🚨 重要：**
-> 価格欄にはカンマやピリオドなどの区切り文字を使用しないでください。
+> 価格欄にはカンマやピリオドなどの区切り文字を使用しないでください。例えば、8,000円の場合は `8000` と入力してください（`8,000` や `¥8,000` は不可）。カンマを含む数値は正しく処理されず、価格が大幅に異なる値として登録される場合があります。
 
 まずアップロードボタンをクリックし、クリップのアイコンをクリックします。該当のファイルを選択して矢印をクリックすると1、2分後にアップロードの処理が完了します。アップロード後、下記のような画面が表示されます。
 
